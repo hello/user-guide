@@ -9,4 +9,4 @@ cp hugo_0.12_linux_386/hugo_0.12_linux_386 hugo-ci
 chmod +x hugo-ci
 
 ./hugo-ci
-s3cmd --access_key=$access_key_id --secret_key=$secret_access_key put -r public/ s3://staging-user.hello.is/
+s3cmd -C .s3cmd put -r public/ s3://staging-user.hello.is/
