@@ -1,17 +1,12 @@
+language: python
+python:
+  - "2.7"
+install: "pip install s3cmd"
 script: ./cibuild.sh
 
 branches:
   only:
   - master
-
-deploy:
-- provider: s3
-  access_key_id: $access_key_id
-  secret_access_key: $secret_access_key
-  bucket: staging-user.hello.is 
-  skip_cleanup: true
-  local-dir: public
-  upload-dir: /
 
 env:
   global:
