@@ -6,7 +6,7 @@ date: 2013-07-01
 menu:
   main:
     parent: sense system
-next: /system/sleep-pill-overview
+next: /system/pill_overview
 title: sense overview
 weight: 10
 ---

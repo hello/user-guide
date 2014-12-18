@@ -2,10 +2,10 @@
 date: 2012-07-01
 menu:
   main:
-    parent: safety
-title: health kit
+    parent: third party apps
+title: Health Kit
 weight: 1
 ---
 
-## Health kit 
+## Health Kit
 something about health kit
