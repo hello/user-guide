@@ -3,8 +3,8 @@ date: 2013-07-01
 menu:
   main:
     parent: sense system
-prev: /system/sense-pill-overview
-next: /system/sleep-wake-up
+prev: /system/pill_overview
+next: /system/wake_up
 title: accessories
 weight: 30
 ---
