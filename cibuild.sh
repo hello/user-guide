@@ -5,7 +5,7 @@ wget https://github.com/spf13/hugo/releases/download/v0.12/hugo_0.12_linux_386.t
 tar -zxvf hugo_0.12_linux_386.tar.gz
 
 # changing path
-cp hugo_* hugo-ci
+cp hugo_*/hugo_ hugo-ci
 chmod +x hugo-ci
 
 ./hugo-ci
