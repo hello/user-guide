@@ -18,6 +18,7 @@ User-Guide How-To
 #### Content Moderation
 
 1. Configuration
+
   Each component on the side bar needs to be declared in `config.toml`. 
   ```md
   [[menu.main]]
@@ -31,6 +32,7 @@ where:
   - `weight`: component order, i.e. weight = 1 implies it is the top dropdown of the sidebar.
 
 2. Markdown
+
   Each post is written as a markdown file. 
   Each file has a header and a body. Below is example of `pill_overview.md`.
   
