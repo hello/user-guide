@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Hello Support</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="/css/bootstrap-theme.css" rel="stylesheet">
+
+    <link href='http://fonts.googleapis.com/css?family=Arbutus+Slab&family=Cabin:600&family=Source+Code+Pro' rel='stylesheet' type='text/css'>
+    <!-- Add custom CSS here -->
+    <link href="/css/HPstyles.css" rel="stylesheet">
+    <link href="/css/hugofont.css" rel="stylesheet">
+    <link href="/css/owl.carousel.css" rel="stylesheet">
+    <link href="/css/owl.theme.default.css" rel="stylesheet">
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+  </head>
+
+  <body>
+
+    <!-- Full Page Image Header Area -->
+    <div id="top" class="header">
+      <div class="vert-text">
+        <a href="https://hello.is" target="_blank"><img src="/img/cotton_sense.jpg" class="logo"> </a>
+        <div class="buttonbox">
+        <a href="/system/sense-overview" class="btn btn-success btn-lg">Support <i class="icon-idea"></i></a>
+        </div>
+      </div>
+    </div>
+
+  <!-- Bootstrap core JavaScript -->
+  <!-- Placed at the end of the document so the pages load faster -->
+  <script src="/js/jquery-2.1.1.min.js"></script>
+  <script src="/js/owl.carousel.min.js"></script>
+  <!--<script src="/js/bootstrap.min.js"></script>-->
+  <script>
+    $(function() {
+        $('a[href*=#]:not([href=#])').click(function() {
+          if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')
+              || location.hostname == this.hostname) {
+
+            var target = $(this.hash);
+            target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+            if (target.length) {
+              $('html,body').animate({
+                scrollTop: target.offset().top
+              }, 1000);
+              return false;
+            }
+          }
+        });
+      });
+    $('.owl-carousel').owlCarousel({
+        loop:true,
+        margin:10,
+        nav:true,
+        autoplay:true,
+        autoplayHoverPause:true,
+        autoplayTimeout:3000,
+        responsive:{
+            0:{
+                items:1
+            },
+            1000:{
+                items:3
+            },
+        }
+    })
+    </script>
+
+    {{ template "partials/analytics.html" . }}
+  </body>
+
+</html>
