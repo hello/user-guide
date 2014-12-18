@@ -2,7 +2,7 @@
 date: 2013-07-01
 menu:
   main:
-    parent: system
+    parent: sense system
 prev: /system/sense-overview
 next: /system/accessories
 title: sleep pill overview

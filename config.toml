@@ -3,8 +3,8 @@ MetaDataFormat = "yaml"
 
 
 [[menu.main]]
-    name = "system"
-    pre = "<i class='fa fa-desktop'></i>"
+    name = "sense system"
+    pre = "<i class='fa fa-cogs'></i>"
     weight = 1
 
 [[menu.main]]
@@ -23,13 +23,13 @@ MetaDataFormat = "yaml"
     weight = 4
 
 [[menu.main]]
-    name = "sleep pill"
-    pre = "<i class='fa fa-toggle-off'></i>"
+    name = "pill"
+    pre = "<i class='fa fa-bomb'></i>"
     weight = 5
 
 [[menu.main]]
     name = "sleep score"
-    pre = "<i class='fa fa-line-chart'></i>"
+    pre = "<i class='fa fa-bar-chart-o'></i>"
     weight = 6
 
 [[menu.main]]
@@ -43,8 +43,8 @@ MetaDataFormat = "yaml"
     weight = 8
 
 [[menu.main]]
-    name = "third party app"
-    pre = "<i class='fa fa-road'></i>"
+    name = "third party apps"
+    pre = "<i class='fa fa-adn'></i>"
     weight = 9
 
 [[menu.main]]
@@ -54,5 +54,5 @@ MetaDataFormat = "yaml"
 
 [[menu.main]]
     name = "safety"
-    pre = "<i class='fa fa-support'></i>"
+    pre = "<i class='fa fa-medkit'></i>"
     weight = 11
