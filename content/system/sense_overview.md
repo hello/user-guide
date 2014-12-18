@@ -5,7 +5,7 @@ aliases:
 date: 2013-07-01
 menu:
   main:
-    parent: system
+    parent: sense system
 next: /system/sleep-pill-overview
 title: sense overview
 weight: 10
