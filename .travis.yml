@@ -1,7 +1,7 @@
 language: python
 python:
 - '2.7'
-install: pip install git+git://github.com/s3tools/s3cmd.git
+install: pip install python-dateutil git+git://github.com/s3tools/s3cmd.git
 script: ./cibuild.sh
 branches:
   only:
