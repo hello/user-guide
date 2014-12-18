@@ -1,14 +1,12 @@
 language: python
 python:
-  - "2.7"
-install: "pip install s3cmd"
+- '2.7'
+install: pip install git+git://github.com/s3tools/s3cmd.git
 script: ./cibuild.sh
-
 branches:
   only:
   - master
-
 env:
   global:
-  - secure: Qw39Q9HeUTWMKMnwWA6UV01/xdrx6/m2DSSmvXIaqbAwBbdYZKIpjaT15fZgx6Xl+a55fdnYOAHC4tVyz99fX6BYziVGGglKI5p22WhyLkhQVHlVlrENPAmVw7J9ug+FspNnzdaKlzIRx5zVVauPffpEYJ/4slk0jgtjDdOEUW8=
-  - secure: VLGooiDqFif4a+sGLD8nJ0k/qlgd3ZKjMFrjrMZ4ZiXTybPs8One/8C8oBz2l0VvT8HBwlp+BoaAaRokVdiTuy13jSZLlxXEf/wVEzJdCYxxRbwbEx+dHYbtSUPzetxjT0XR2OoCUFNbJnwa6624414vdaT5yx618XHA83Zd4j4=
+  - secure: fT52gHODfzRekuGwHJEPoa1HKv2ZKF4NVN/mrP7cI1gFPgIkgmp6NX7IwCd8A/qZTbxPGeUm1o5ZceGPpeyyLn0VX+VIAGvPXfTfXzkdVjrVatf9tE1wdwiaOyFH/BMNljBDLZ7UHWYkm4aVa7okb6JPjX+R3ETlW7A4eDMV138=
+  - secure: ApdIzdnIZrz4AZ5isvfJdzkGcEW6PG+qIb7I92uxELZCwTdpXYiJCz7ElNWZc0fe3Dy1rGsy/J8a8vkxIorZG0rL1KZHJiCDKZzyOMI8PDvYwZ9iUZQ5w2jDyyerQJcM80I3pkgHxXabFQxN8goKZLZ2VzQDvGd13jLi4DW0xZM=
