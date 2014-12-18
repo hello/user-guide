@@ -1,0 +1,19 @@
+script: ./cibuild.sh
+
+branches:
+  only:
+  - master
+
+deploy:
+- provider: s3
+  access_key_id: $access_key_id
+  secret_access_key: $secret_access_key
+  bucket: staging-user.hello.is 
+  skip_cleanup: true
+  local-dir: public
+  upload-dir: /
+
+env:
+  global:
+  - secure: Qw39Q9HeUTWMKMnwWA6UV01/xdrx6/m2DSSmvXIaqbAwBbdYZKIpjaT15fZgx6Xl+a55fdnYOAHC4tVyz99fX6BYziVGGglKI5p22WhyLkhQVHlVlrENPAmVw7J9ug+FspNnzdaKlzIRx5zVVauPffpEYJ/4slk0jgtjDdOEUW8=
+  - secure: VLGooiDqFif4a+sGLD8nJ0k/qlgd3ZKjMFrjrMZ4ZiXTybPs8One/8C8oBz2l0VvT8HBwlp+BoaAaRokVdiTuy13jSZLlxXEf/wVEzJdCYxxRbwbEx+dHYbtSUPzetxjT0XR2OoCUFNbJnwa6624414vdaT5yx618XHA83Zd4j4=
