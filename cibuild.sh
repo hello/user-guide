@@ -13,4 +13,4 @@ export AWS_ACCESS_KEY_ID=$access_key_id
 export AWS_SECRET_KEY=$secret_access_key
 export AWS_SECRET_ACCESS_KEY=$secret_access_key
 
-s3cmd --access_key=$access_key_id --secret_key=$secret_access_key put -r public/ s3://staging-user.hello.is/
+s3cmd -c .s3cmd -r public/ s3://staging-user.hello.is/
