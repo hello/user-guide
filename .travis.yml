@@ -5,7 +5,7 @@ install: pip install python-dateutil git+git://github.com/s3tools/s3cmd.git
 script: ./cibuild.sh
 branches:
   only:
-  - master
+  - staging
 env:
   global:
   - secure: fT52gHODfzRekuGwHJEPoa1HKv2ZKF4NVN/mrP7cI1gFPgIkgmp6NX7IwCd8A/qZTbxPGeUm1o5ZceGPpeyyLn0VX+VIAGvPXfTfXzkdVjrVatf9tE1wdwiaOyFH/BMNljBDLZ7UHWYkm4aVa7okb6JPjX+R3ETlW7A4eDMV138=
