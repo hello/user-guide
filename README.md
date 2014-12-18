@@ -4,20 +4,21 @@ User-Guide How-To
 ####  Page Structure
 
 1. Domains
- - Staging: https://staging-user.hello.is/ : this is the testing environment which reflects every commit you make on `staging` branch. There will be a brief delay until you see changes. This domain is only accessible if you are on office's wifi.
- - Production: https://user.hello.is/ or to be decided; `master` branch is responsible for it.
+  - Staging: https://staging-user.hello.is/ : this is the testing environment which reflects every commit you make on `staging` branch. There will be a brief delay until you see changes. This domain is only accessible if you are on office's wifi.
+  - Production: https://user.hello.is/ or to be decided; `master` branch is responsible for it.
 
 2. Components
- - Cover page: minimal as of now, just contains links to marketing website and user-guide
- - Header: hello logo, current post's title, and link to marketing website
- - Left sidebar: a list of dropdowns, each containing links to the children posts.
- - Posts: to be filled in.
- - Footer: none as of now.
- Basically, we only need to care about sidebar -> dropdowns and dropdown -> posts
+  - Cover page: minimal as of now, just contains links to marketing website and user-guide
+  - Header: hello logo, current post's title, and link to marketing website
+  - Left sidebar: a list of dropdowns, each containing links to the children posts.
+  - Posts: to be filled in.
+  - Footer: none as of now.
+  Basically, we only need to care about sidebar -> dropdowns and dropdown -> posts
  
 #### Content Moderation
 
 1. Configuration
+  Each component on the side bar needs to be declared in `config.toml`. 
   ```md
   [[menu.main]]
     name = "sense system"
@@ -30,8 +31,6 @@ where:
   - `weight`: component order, i.e. weight = 1 implies it is the top dropdown of the sidebar.
 
 2. Markdown
-
-  Each component on the side bar needs to be declared in `config.toml`. 
   Each post is written as a markdown file. 
   Each file has a header and a body. Below is example of `pill_overview.md`.
   
