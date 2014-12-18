@@ -441,4 +441,16 @@ a:focus {
   color: #6FBB20;
   text-decoration: underline;
 }
+
+h1, h2, h3, h4, h5 {
+  font-weight: 300;
+}
+
+div.notification-row>a {
+  margin-top: -5px;
+}
+
+div.title-row>h1.top-menu {
+  margin-top: -10px;
+}
   
