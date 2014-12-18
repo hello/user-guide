@@ -10,4 +10,4 @@ weight: 1
 
 ## Retrieve your password
 
-something about password
+something about password and MORE!
