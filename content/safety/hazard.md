@@ -5,7 +5,7 @@ menu:
     parent: safety
 prev: /safety/power
 next: /safety/opening_sense
-title: Choking hazard
+title: Choking Hazard
 weight: 2
 ---
 
