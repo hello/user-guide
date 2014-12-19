@@ -5,7 +5,7 @@ body {
     height: 100%;
     width: 100%;
     letter-spacing: 0.5px;
-    background-color: #FFFFFF;
+    background: #FFFFFF;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -22,6 +22,7 @@ body {
     display: table-cell;
     vertical-align: middle;
     text-align: center;
+    background: #FFFFFF;
 }
 
 
@@ -238,18 +239,18 @@ footer a:hover {
 
 /* Bootstrap Addons */
 
-.btn-dark {
-    color:white;
-    background-color: rgba(30,30,30, 0.8);
-    border-color: black;
+.btn-green {
+    color: #FFFFFF;
+    background-color: #93C95D;
+    border-color: #93C95D;
 }
 
-.btn-dark:hover,
-.btn-dark:focus,
-.btn-dark:active {
-    color: black;
-    background-color: aliceblue;
-    border-color: black;
+.btn-green:hover,
+.btn-green:focus,
+.btn-green:active {
+    color: #FFFFFF;
+    background-color: rgba(134, 223, 44, 0.7);
+    border-color: rgba(134, 223, 44, 0.7);
 }
 
 .btn-info:hover, .btn-primary:hover, .btn-success:hover {
