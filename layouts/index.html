@@ -10,10 +10,15 @@
 
     <!-- Bootstrap core CSS -->
     <link href="/css/bootstrap-theme.css" rel="stylesheet">
+
+    <link href='http://fonts.googleapis.com/css?family=Arbutus+Slab&family=Cabin:600&family=Source+Code+Pro' rel='stylesheet' type='text/css'>
     <!-- Add custom CSS here -->
-    <link href="/css/hpstyles.css" rel="stylesheet">
-    <link rel="shortcut icon" href="/icons/hello_logo_mark.png" type="image/x-icon" />
-    <link rel="apple-touch-icon" href="/icons/hello_logo_mark.png" />
+    <link href="/css/HPstyles.css" rel="stylesheet">
+    <link href="/css/hugofont.css" rel="stylesheet">
+    <link href="/css/owl.carousel.css" rel="stylesheet">
+    <link href="/css/owl.theme.default.css" rel="stylesheet">
+    <link rel="shortcut icon" href="/icons/logo_mark.png" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="/icons/logo_mark.png" />
   </head>
 
   <body>
@@ -31,6 +36,44 @@
   <!-- Bootstrap core JavaScript -->
   <!-- Placed at the end of the document so the pages load faster -->
   <script src="/js/jquery-2.1.1.min.js"></script>
+  <script src="/js/owl.carousel.min.js"></script>
+  <!--<script src="/js/bootstrap.min.js"></script>-->
+  <script>
+    $(function() {
+        $('a[href*=#]:not([href=#])').click(function() {
+          if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')
+              || location.hostname == this.hostname) {
+
+            var target = $(this.hash);
+            target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+            if (target.length) {
+              $('html,body').animate({
+                scrollTop: target.offset().top
+              }, 1000);
+              return false;
+            }
+          }
+        });
+      });
+    $('.owl-carousel').owlCarousel({
+        loop:true,
+        margin:10,
+        nav:true,
+        autoplay:true,
+        autoplayHoverPause:true,
+        autoplayTimeout:3000,
+        responsive:{
+            0:{
+                items:1
+            },
+            1000:{
+                items:3
+            },
+        }
+    })
+    </script>
+
+    {{ template "partials/analytics.html" . }}
   </body>
 
 </html>
