@@ -17,4 +17,4 @@ export AWS_SECRET_ACCESS_KEY=$secret_access_key
 echo $AWS_ACCESS_KEY_ID
 echo $AWS_SECRET_ACCESS_KEY
 
-# s3cmd -c temp.cfg put -r public/ s3://staging-user.hello.is/
+s3cmd -c temp.cfg put -r public/ s3://staging-user.hello.is/
