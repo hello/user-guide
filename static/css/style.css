@@ -329,6 +329,7 @@ h1.top-menu {
 
 .navigation {
     position: absolute;
+    padding-top: 0.3em;
     top: 0;
     bottom: 0;
     margin: 0;
@@ -338,7 +339,6 @@ h1.top-menu {
     min-height:1200px;
     cursor:pointer;
     display: flex;
-    justify-content: center;
     align-content: center;
     flex-direction: column;
     font-size: 6em;
@@ -377,5 +377,9 @@ div.notification-row>a {
 
 div.title-row>h1.top-menu {
   margin-top: -10px;
+}
+
+.navigation>i {
+  font-size: 40px;
 }
   
