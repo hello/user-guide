@@ -2,7 +2,7 @@
 
 ####  Page Structure
 
-1. Domains
+1. Domain
   - Staging: https://staging-user.hello.is/ : this is the testing environment which reflects every commit you make on `staging` branch. There will be a brief delay until you see changes. This domain is only accessible if you are on office's wifi.
   - Production: https://user.hello.is/ or to be decided; `master` branch is responsible for it.
 
