@@ -1,4 +1,4 @@
-User-Guide How-To
+# User-Guide How-To [![Build Status](https://magnum.travis-ci.com/hello/user-guide.svg?token=NdRqowShjfz5GNB6DGXR&branch=staging)](https://magnum.travis-ci.com/hello/user-guide)
 =================
 
 ####  Page Structure
@@ -13,6 +13,7 @@ User-Guide How-To
   - Left sidebar: a list of dropdowns, each containing links to the children posts.
   - Posts: to be filled in.
   - Footer: none as of now.
+  
   Basically, we only need to care about sidebar -> dropdowns and dropdown -> posts
  
 #### Content Moderation
