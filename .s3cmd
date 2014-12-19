@@ -1,3 +1,3 @@
-access_key=$AWS_ACCESS_KEY_ID
-secret_key=$AWS_SECRET_ACCESS_KEY
+access_key=AKIAJCPPR7GZWOSUD6ZQ
+secret_key=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
 bucket_location = US
