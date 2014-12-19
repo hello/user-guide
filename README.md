@@ -1,5 +1,4 @@
 # User-Guide How-To [![Build Status](https://magnum.travis-ci.com/hello/user-guide.svg?token=NdRqowShjfz5GNB6DGXR&branch=staging)](https://magnum.travis-ci.com/hello/user-guide)
-=================
 
 ####  Page Structure
 
