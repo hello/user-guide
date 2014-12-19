@@ -10,8 +10,11 @@ chmod +x hugo-ci
 
 ./hugo-ci
 
-# export AWS_ACCESS_KEY_ID=$access_key_id
-# export AWS_SECRET_KEY=$secret_access_key
-# export AWS_SECRET_ACCESS_KEY=$secret_access_key
+export AWS_ACCESS_KEY_ID=$access_key_id
+export AWS_SECRET_KEY=$secret_access_key
+export AWS_SECRET_ACCESS_KEY=$secret_access_key
 
-s3cmd -c temp.cfg put -r public/ s3://staging-user.hello.is/
+echo $AWS_ACCESS_KEY_ID
+echo $AWS_SECRET_ACCESS_KEY
+
+# s3cmd -c temp.cfg put -r public/ s3://staging-user.hello.is/
