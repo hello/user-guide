@@ -6,7 +6,7 @@
   - Staging: https://staging-user.hello.is/ : this is the testing environment which reflects every commit you make on `staging` branch. There will be a brief delay until you see changes. This domain is only accessible if you are on office's wifi.
   - Production: https://user.hello.is/ or to be decided; `master` branch is responsible for it.
 
-2. Components
+2. Component
   - Cover page: minimal as of now, just contains links to marketing website and user-guide
   - Header: hello logo, current post's title, and link to marketing website
   - Left sidebar: a list of dropdowns, each containing links to the children posts.
