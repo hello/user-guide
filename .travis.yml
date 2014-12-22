@@ -1,12 +1,11 @@
 language: python
 python:
 - '2.7'
-install: pip install python-dateutil git+git://github.com/s3tools/s3cmd.git
 script: ./cibuild.sh
 branches:
   only:
   - staging
 env:
   global:
-  - secure: fT52gHODfzRekuGwHJEPoa1HKv2ZKF4NVN/mrP7cI1gFPgIkgmp6NX7IwCd8A/qZTbxPGeUm1o5ZceGPpeyyLn0VX+VIAGvPXfTfXzkdVjrVatf9tE1wdwiaOyFH/BMNljBDLZ7UHWYkm4aVa7okb6JPjX+R3ETlW7A4eDMV138=
-  - secure: ApdIzdnIZrz4AZ5isvfJdzkGcEW6PG+qIb7I92uxELZCwTdpXYiJCz7ElNWZc0fe3Dy1rGsy/J8a8vkxIorZG0rL1KZHJiCDKZzyOMI8PDvYwZ9iUZQ5w2jDyyerQJcM80I3pkgHxXabFQxN8goKZLZ2VzQDvGd13jLi4DW0xZM=
+  - secure: YnC9tN12rvCi4/l5d7I0kYZsuGvsP8Yl2Akcsknc/vFeo+smbGvz1yj3OEjtY/SyhZ9a9v0KJmWgZl89c7tp0CYFhNJkePf8ztKv2bBIiWycvCk7Om6DyHaWFQg0FcM/5nEF/RLikosStrzt0VT04+etX2oJX0o7s+K59DFN+t8=
+  - secure: JJGLLymqHB6NcrSzVjcdFKwpvKRvEGoAJgvKnfN8uTfpY7v505NjjjtX1A4ViTtr0D12U5DmPyidTnBIAzvsXjrW0Lj6hXUxT0vNch6JCI4x9tZEJdunNbrbrs42V59AAa+a1erFliRgIC7JM27MgW8N8kBjsJwMNF4qk9EFjwc=
