@@ -50,19 +50,25 @@
     .btn {
         margin-bottom: 5px;
     }
+    .navigation {
+        display: none;
+    }
+}
 
+@media (max-width: 993px) {
+    .navigation {
+        display: none;
+    }
 }
 
 @media (max-width: 480px) {
-
-    .notification-row {
+    .notification-row, .navigation {
         display: none;
     }
 }
 
 @media (max-width:320px) {
-
-    .notification-row {
+    .notification-row, .navigation {
         display: none;
     }
 }
