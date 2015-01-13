@@ -387,3 +387,6 @@ div.title-row>h1.top-menu {
   display: none;
 }
   
+.col-md-10 {
+  padding-right: 0;
+}
