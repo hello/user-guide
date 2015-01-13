@@ -382,4 +382,8 @@ div.title-row>h1.top-menu {
 .navigation>i {
   font-size: 40px;
 }
+
+.top-menu {
+  display: none;
+}
   
