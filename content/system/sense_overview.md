@@ -28,3 +28,8 @@ weight: 10
 
   * [Github Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
   * [Font Awesome Icons](http://fortawesome.github.io/Font-Awesome/icons/)
+
+
+### Feeling bored? Go see my secrets
+  * [Secret 1](/secrets/secret1)
+  * [Secret 2](/secrets/secret2)
