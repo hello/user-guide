@@ -31,11 +31,16 @@ function initializeJS() {
 
         // Center menu on screen
         var o = (jQuery(this).offset());
-        diff = 200 - o.top;
-        if(diff>0)
-            jQuery("#sidebar").scrollTo("-="+Math.abs(diff),500);
-        else
-            jQuery("#sidebar").scrollTo("+="+Math.abs(diff),500);
+        var diff = 200 - o.top;
+        var $sidebar = $("#sidebar");
+        if ($sidebar.scrollTo) {
+        	if(diff>0) {
+	            $sidebar.scrollTo("-="+Math.abs(diff),500);
+        	}
+	        else {
+	            $sidebar.scrollTo("+="+Math.abs(diff),500);	
+	        }
+        }
     });
 
 
