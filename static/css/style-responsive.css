@@ -62,13 +62,13 @@
 }
 
 @media (max-width: 480px) {
-    .notification-row, .navigation {
+    .navigation {
         display: none;
     }
 }
 
 @media (max-width:320px) {
-    .notification-row, .navigation {
+    .navigation {
         display: none;
     }
 }
