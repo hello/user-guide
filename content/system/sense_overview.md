@@ -33,3 +33,30 @@ weight: 10
 ### Feeling bored? Go see my secrets
   * [Secret 1](/secrets/secret1)
   * [Secret 2](/secrets/secret2)
+
+### Which platform does your phone have?
+  
+  <article>
+    <details>
+      <summary>Android</summary>
+      <details>
+        <summary>Download Sense app for Android at</summary>
+        <p>To be announced for android</p>
+      </details>
+      <details>
+        <summary>View android user manual at</summary>
+        <p>oops</p>
+      </details>
+    </details>
+    <details>
+    <summary>iOS</summary>
+      <details>
+        <summary>Download Sense app for iOS at</summary>
+        <p>To be announced for iOS</p>
+      </details>
+      <details>
+        <summary>View iOS user manual at</summary>
+        <p>oops</p>
+      </details>
+    </details>
+  </article>

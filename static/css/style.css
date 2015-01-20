@@ -389,4 +389,28 @@ div.title-row>h1.top-menu {
   
 .col-md-10 {
   padding-right: 0;
+  height: 100%;
 }
+
+summary::-webkit-details-marker {
+ color: rgba(111, 187, 32, 0.7);
+ font-size: 125%;
+ margin-right: 2px;
+}
+summary:focus {
+    outline-style: none;
+}
+article > details > summary {
+    font-size: 28px;
+    margin-top: 16px;
+}
+details > p {
+    margin-left: 24px;
+}
+details details {
+    margin-left: 36px;
+}
+details details summary {
+    font-size: 16px;
+}
+
