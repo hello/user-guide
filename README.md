@@ -77,7 +77,7 @@ where:
     - Go to the `/content` folder. Click `+` to add a new folder and then then press `/` to add a markdown file.
     - Edit, save and comment if needed.
 3. Make a pull request to `staging` branch, write a summary of changelogs and cc involved persons.
-4. Verify if the changes are effective on https://staging-user.hello.is/ once the pull request is accepted, merged and deployed. If possible, view the results on both phones and PCs.
+4. Verify if the changes are effective on http://staging-user.hello.is/ once the pull request is accepted, merged and deployed. If possible, view the results on both phones and PCs.
 
 #### Convention:
 
