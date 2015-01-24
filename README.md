@@ -13,7 +13,7 @@
   - The generated content is in /user-guide/public
 
 4. Fire up:
-  - Start server by hugo server
+  - Start server: `hugo server`
   - Some useful options are --buildDrafts --port=1234 --verboseLog --watch
   - Page is now ready at localhost:1234
 
