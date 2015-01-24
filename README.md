@@ -18,7 +18,7 @@
   - Page is now ready at localhost:1234
 
 5. Notes:
-  - In my experience, sometimes if you update the content and the page doesn't reflect it, probably the content inside /public is messed up. Stop the server, removing it before compiling again will solve it.
+  - In my experience, sometimes you change the static content but the page doesn't reflect it, probably the stuff inside /public is messed up. Stop the server, removing it before compiling again will solve it.
   - ctr + C
   - `rm -rf public`
   - `hugo`
