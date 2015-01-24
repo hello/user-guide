@@ -1,7 +1,30 @@
 # User-Guide How-To [![Build Status](https://magnum.travis-ci.com/hello/user-guide.svg?token=NdRqowShjfz5GNB6DGXR&branch=staging)](https://magnum.travis-ci.com/hello/user-guide)
 
-####  Page Structure
+#### Development
+1. Install hugo: The fastest way is via [Homebrew](http://brew.sh/).
+  - `brew update`
+  - `brew install hugo`
 
+2. Clone this repo:
+  - `git clone git@github.com:hello/user-guide.git`
+
+3. Compile the code:
+  - simply go to /user-guide directory and invoke `hugo`
+  - The generated content is in /user-guide/public
+
+4. Fire up:
+  - Start server by hugo server
+  - Some useful options are --buildDrafts --port=1234 --verboseLog --watch
+  - Page is now ready at localhost:1234
+
+5. Notes:
+  - In my experience, sometimes if you update the content and the page doesn't reflect it, probably the content inside /public is messed up. Stop the server, removing it before compiling again will solve it.
+  - ctr + C
+  - `rm -rf public`
+  - `hugo`
+  - `hugo server`
+  
+####  Page Structure
 1. Domain
   - Staging: https://staging-user.hello.is/ : this is the testing environment which reflects every commit you make on `staging` branch. There will be a brief delay until you see changes. This domain is only accessible if you are on office's wifi.
   - Production: https://user.hello.is/ or to be decided; `master` branch is responsible for it.
