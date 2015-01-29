@@ -258,8 +258,10 @@ a.logo {
     font-weight: 300;
     color: #8E8E93;
     float: left;
+    margin-left: 25px;
     margin-top: 10px;
     text-transform: uppercase;
+    text-align: center;
 }
 
 a.logo:hover, a.logo:focus {
@@ -414,3 +416,6 @@ details details summary {
     font-size: 16px;
 }
 
+#logo {
+    height: 35px;
+}
