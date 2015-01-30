@@ -8,7 +8,7 @@ title: enhanced_audio
 weight: 8
 ---
 
-## Enhanced_Audio
+## Enhanced Audio
 
 
 This will allow Sense to pick up snoring, sleep talking and other noise disturbances.
