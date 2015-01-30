@@ -4,7 +4,7 @@ menu:
     parent: sense system
 next: /sense_system/pill_overview
 title: sense overview
-weight: 10
+weight: 1
 ---
 ## Sense Overview
 

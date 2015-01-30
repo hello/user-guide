@@ -5,7 +5,7 @@ menu:
 prev: /sense_system/sense_app_overview
 next: /getting_started/get_app
 title: accessories
-weight: 30
+weight: 5
 ---
 
 ## Accessories Overview
