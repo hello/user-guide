@@ -4,7 +4,7 @@ menu:
     parent: getting started
 prev: /getting_started/get_the_app
 title: where to get the app
-weight: 3
+weight: 1
 ---
 
 ## Where to get the app
