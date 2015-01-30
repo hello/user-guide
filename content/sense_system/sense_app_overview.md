@@ -5,7 +5,7 @@ menu:
 prev: /sense_system/smart_alarm
 next: /sense_system/accessories
 title: sense app overview
-weight: 40
+weight: 4
 ---
 
 ## Sense App Overview
