@@ -4,7 +4,7 @@ menu:
   main:
     parent: sense system
 prev: /sense_system/sense_overview
-next: /sense_system/accessories
+next: /sense_system/smart_alarm
 title: sleep pill overview
 weight: 20
 ---
