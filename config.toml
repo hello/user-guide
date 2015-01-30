@@ -56,8 +56,3 @@ MetaDataFormat = "yaml"
     name = "safety"
     pre = "<i class='fa fa-medkit'></i>"
     weight = 11
-
-[[menu.main]]
-  name = "sidebar"
-  pre = "<i class='fa fa-at'></i>"
-  weight = 12
