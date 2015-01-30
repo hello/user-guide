@@ -6,7 +6,7 @@ next: /sense_system/pill_overview
 title: sense overview
 weight: 10
 ---
-
+## Sense Overview
 
 The first system for understanding your sleep and bedroom.
 
