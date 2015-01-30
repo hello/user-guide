@@ -1,15 +1,26 @@
 ---
-date: 2013-07-01
 menu:
   main:
     parent: sense system
-prev: /sense_system/pill_overview
-next: /sense_system/wake_up
+prev: /sense_system/sense_app_overview
+next: /getting_started/get_app
 title: accessories
 weight: 30
 ---
 
-## Accessories
+## Accessories Overview
 
-something about accessories
+Sense
+
+
+Sleep Pill
+
+
+Micro USB Cable
+
+
+USB Power Adapter
+
+
+Documentation
 
