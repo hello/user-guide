@@ -4,7 +4,7 @@ menu:
     parent: sense system
 prev: /sense_system/smart_alarm
 next: /sense_system/accessories
-title: smart alarm
+title: sense app overview
 weight: 40
 ---
 
