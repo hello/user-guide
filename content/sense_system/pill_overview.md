@@ -6,7 +6,7 @@ menu:
 prev: /sense_system/sense_overview
 next: /sense_system/smart_alarm
 title: sleep pill overview
-weight: 20
+weight: 2
 ---
 
 ## Sleep Pill Overview
