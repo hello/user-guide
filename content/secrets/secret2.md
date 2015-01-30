@@ -4,5 +4,5 @@ title: secret number 1
 weight: 300
 ---
 
-## This is my first secret
+## This is my second secret
 #### sh sh sh, note that I do not appear on the menu bar at all
