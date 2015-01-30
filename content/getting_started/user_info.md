@@ -1,16 +1,15 @@
 ---
-date: 2013-07-01
 menu:
   main:
     parent: getting started
-prev: /getting_started/setup
-next: /getting_started/pair
+prev: /getting_started/setup_sense
+next: /getting_started/pairing_sense
 title: user info
-weight: 2
+weight: 3
 ---
 
 ## User Information
 
-something about user
+Explain why and how we use their information (Bithday, Gender, Height, Weight)
 
 
