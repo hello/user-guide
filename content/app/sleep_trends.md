@@ -3,7 +3,7 @@ menu:
   main:
     parent: app
 prev: /app/navigating_days
-next: /app/account_settings
+next: /app/sleep_insights
 title: sleep trends
 weight: 6
 ---
