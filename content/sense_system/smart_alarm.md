@@ -3,8 +3,9 @@ menu:
   main:
     parent: sense system
 prev: /sense_system/pill_overview
+prev: /sense_system/sense_app_overview
 title: smart alarm
-weight: 40
+weight: 3
 ---
 
 ## Smart Alarm Overview
