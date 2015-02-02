@@ -1,8 +1,8 @@
 ---
 menu:
   main:
-    parent: pill
-next: /battery-change
+    parent: sleep pill
+next: /sleep pill/battery-change
 title: pill colors
 weight: 1
 ---
