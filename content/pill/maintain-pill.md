@@ -1,8 +1,8 @@
 ---
 menu:
   main:
-    parent: pill
-prev: /pill/battery-change
+    parent: sleep pill
+prev: /sleep pill/battery-change
 title: maintaining sleep pill
 weight: 5
 ---
