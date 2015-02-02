@@ -5,7 +5,7 @@ menu:
 prev: /smart alarm/multiple-alarms
 next: /smart alarm/alarms-2people
 title: dismissing your alarm
-weight: 5
+weight: 4
 ---
 
 ## Dismissing your Alarm
