@@ -4,7 +4,7 @@ menu:
     parent: sense system
 prev: /sense_system/pill_overview
 prev: /sense_system/sense_app_overview
-title: smart alarm
+title: alarm
 weight: 3
 ---
 
