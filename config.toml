@@ -23,7 +23,7 @@ MetaDataFormat = "yaml"
     weight = 4
 
 [[menu.main]]
-    name = "pill"
+    name = "sleep pill"
     pre = "<i class='fa fa-bomb'></i>"
     weight = 5
 
