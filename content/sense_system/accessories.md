@@ -3,7 +3,7 @@ menu:
   main:
     parent: sense system
 prev: /sense_system/sense_app_overview
-next: /getting_started/get_app
+next: /getting_started/get_the_app
 title: accessories
 weight: 5
 ---
