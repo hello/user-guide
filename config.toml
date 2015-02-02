@@ -33,23 +33,23 @@ MetaDataFormat = "yaml"
     weight = 6
 
 [[menu.main]]
+    name = "smart alarm"
+    pre = "<i class='fa fa-bell-o'></i>"
+    weight = 7
+   
+[[menu.main]]
+    name = "sensors"
+    pre = "<i class='fa fa-magnet'></i>"
+    weight = 8 
+    
+[[menu.main]]
     name = "account"
     pre = "<i class='fa fa-user'></i>"
-    weight = 7
-
-[[menu.main]]
-    name = "alarm"
-    pre = "<i class='fa fa-bell-o'></i>"
-    weight = 8
+    weight = 9
 
 [[menu.main]]
     name = "third party apps"
     pre = "<i class='fa fa-adn'></i>"
-    weight = 9
-
-[[menu.main]]
-    name = "sensors"
-    pre = "<i class='fa fa-magnet'></i>"
     weight = 10
 
 [[menu.main]]
