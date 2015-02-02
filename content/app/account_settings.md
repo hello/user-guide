@@ -5,7 +5,7 @@ menu:
 prev: /app/wifi
 next: /app/software_updating
 title: account settings
-weight: 10
+weight: 11
 ---
 
 ## Account Settings
