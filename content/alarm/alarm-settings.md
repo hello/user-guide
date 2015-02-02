@@ -2,7 +2,7 @@
 date: 2012-07-01
 menu:
   main:
-    parent: smart alarm
+    parent: alarm
 title: set your alarm
 weight: 1
 ---

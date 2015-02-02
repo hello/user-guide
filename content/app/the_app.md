@@ -4,7 +4,7 @@ menu:
     parent: app
 prev: /getting_started/pair_second_pill
 next: /app/current_conditions
-title: where to get the app
+title: get the app
 weight: 1
 ---
 
