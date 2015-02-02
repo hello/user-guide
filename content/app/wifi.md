@@ -1,9 +1,9 @@
 ---
 menu:
   main:
-    parent: app
-prev: /app/devices
-next: /app/account_settings
+    parent: sense app
+prev: /sense app/devices
+next: /sense app/account_settings
 title: wifi
 weight: 10
 ---

@@ -1,9 +1,9 @@
 ---
 menu:
   main:
-    parent: app
-prev: /app/enhanced_audio
-next: /app/wifi
+    parent: sense app
+prev: /sense app/enhanced_audio
+next: /sense app/wifi
 title: devices
 weight: 9
 ---
