@@ -3,8 +3,8 @@ menu:
   main:
     parent: system
 prev: /system/pill-overview
-prev: /system/sense-app-overview
-title: alarm
+next: /system/app-overview
+title: smart alarm overview
 weight: 3
 ---
 
