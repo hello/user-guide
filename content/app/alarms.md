@@ -1,9 +1,9 @@
 ---
 menu:
   main:
-    parent: sense app
-prev: /sense app/current_conditions
-next: /sense app/sleep_timeline
+    parent: app
+prev: /app/current-conditions
+next: /app/sleep-timeline
 title: alarms
 weight: 3
 ---

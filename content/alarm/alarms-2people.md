@@ -1,8 +1,8 @@
 ---
 menu:
   main:
-    parent: smart alarm
-prev: /smart alarm/dismissing-alarm
+    parent: alarm
+prev: /alarm/dismissing-alarm
 title: alarms with two people
 weight: 5
 ---

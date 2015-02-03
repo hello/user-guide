@@ -2,9 +2,9 @@
 date: 2013-07-01
 menu:
   main:
-    parent: sense system
-prev: /sense_system/sense_overview
-next: /sense_system/smart_alarm
+    parent: system
+prev: /system/sense-overview
+next: /system/smart-alarm-overview
 title: sleep pill overview
 weight: 2
 ---

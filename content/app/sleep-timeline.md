@@ -1,9 +1,9 @@
 ---
 menu:
   main:
-    parent: sense app
-prev: /sense app/alarms
-next: /sense app/navigating_days
+    parent: app
+prev: /app/alarms
+next: /app/navigating-days
 title: reading your sleep timeline
 weight: 4
 ---

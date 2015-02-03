@@ -2,8 +2,8 @@
 menu:
   main:
     parent: getting started
-prev: /getting_started/get_the_app
-next: /getting_started/user_info
+prev: /getting-started/get-the-app
+next: /getting-started/user-info
 title: setup sense overview
 weight: 2
 ---

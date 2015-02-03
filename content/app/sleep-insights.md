@@ -1,9 +1,9 @@
 ---
 menu:
   main:
-    parent: sense app
-prev: /sense app/sleep_trends
-next: /sense app/enhanced_audio
+    parent: app
+prev: /app/sleep-trends
+next: /app/enhanced-audio
 title: sleep insights
 weight: 7
 ---

@@ -2,8 +2,8 @@
 menu:
   main:
     parent: getting started
-prev: /getting_started/user_info
-next: /getting_started/connect_wifi
+prev: /getting-started/user-info
+next: /getting-started/connect-wifi
 title: pairing via bluetooth
 weight: 4
 ---

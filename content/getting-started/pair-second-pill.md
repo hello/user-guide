@@ -2,7 +2,7 @@
 menu:
   main:
     parent: getting started
-prev: /getting_started/clip_sleep_pill
+prev: /getting-started/clip-sleep-pill
 title: Pair a second sleep pill
 weight: 8
 ---

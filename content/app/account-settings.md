@@ -1,9 +1,9 @@
 ---
 menu:
   main:
-    parent: sense app
-prev: /sense app/wifi
-next: /sense app/software_updating
+    parent: app
+prev: /app/wifi
+next: /app/software-updating
 title: account settings
 weight: 11
 ---

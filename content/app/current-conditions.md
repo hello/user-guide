@@ -1,9 +1,9 @@
 ---
 menu:
   main:
-    parent: sense app
-prev: /sense app/the_app
-next: /sense app/alarms
+    parent: app
+prev: /app/the-app
+next: /app/alarms
 title: current conditions
 weight: 2
 ---

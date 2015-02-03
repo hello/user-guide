@@ -1,9 +1,9 @@
 ---
 menu:
   main:
-    parent: smart alarm
-prev: /smart alarm/what-is-alarm
-next: /smart alarm/multiple-alarms
+    parent: alarm
+prev: /alarm/what-is-alarm
+next: /alarm/multiple-alarms
 title: setting your smart alarm
 weight: 2
 ---

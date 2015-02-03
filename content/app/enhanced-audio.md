@@ -1,10 +1,10 @@
 ---
 menu:
   main:
-    parent: sense app
-prev: /sense app/sleep_insights
-next: /sense app/devices
-title: enhanced_audio
+    parent: app
+prev: /app/sleep-insights
+next: /app/devices
+title: enhanced-audio
 weight: 8
 ---
 

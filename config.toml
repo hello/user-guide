@@ -3,7 +3,7 @@ MetaDataFormat = "yaml"
 
 
 [[menu.main]]
-    name = "sense system"
+    name = "system"
     pre = "<i class='fa fa-cogs'></i>"
     weight = 1
 
@@ -13,7 +13,7 @@ MetaDataFormat = "yaml"
     weight = 2
   
 [[menu.main]]
-    name = "sense app"
+    name = "app"
     pre = "<i class='fa fa-mobile'></i>"
     weight = 3
 

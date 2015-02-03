@@ -2,8 +2,8 @@
 menu:
   main:
     parent: getting started
-prev: /getting_started/pair_sense
-next: /getting_started/pair_sleep_pill
+prev: /getting-started/pair-sense
+next: /getting-started/pair-sleep-pill
 title: connect to wifi
 weight: 5
 ---

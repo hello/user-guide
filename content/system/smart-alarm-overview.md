@@ -1,9 +1,9 @@
 ---
 menu:
   main:
-    parent: sense system
-prev: /sense_system/pill_overview
-prev: /sense_system/sense_app_overview
+    parent: system
+prev: /system/pill-overview
+prev: /system/sense-app-overview
 title: alarm
 weight: 3
 ---

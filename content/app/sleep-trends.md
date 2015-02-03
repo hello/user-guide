@@ -1,9 +1,9 @@
 ---
 menu:
   main:
-    parent: sense app
-prev: /sense app/navigating_days
-next: /sense app/sleep_insights
+    parent: app
+prev: /app/navigating-days
+next: /app/sleep-insights
 title: sleep trends
 weight: 6
 ---

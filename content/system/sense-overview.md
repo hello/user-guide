@@ -1,8 +1,8 @@
 ---
 menu:
   main:
-    parent: sense system
-next: /sense_system/pill_overview
+    parent: system
+next: /system/pill-overview
 title: sense overview
 weight: 1
 ---
