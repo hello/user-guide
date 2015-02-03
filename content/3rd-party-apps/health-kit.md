@@ -2,7 +2,7 @@
 menu:
   main:
     parent: third party apps
-next: /third party apps/google-fit
+next: /3rd-party-apps/google-fit
 title: Health Kit
 weight: 1
 ---
