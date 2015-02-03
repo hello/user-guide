@@ -14,8 +14,13 @@ weight: 7
 Attach Sleep Pill to your Pillow.
 
 
-Clip your Sleep Pill to the pillowcase you sleep on. You may need to pull it taut between two hands.
+Sleep Pill clips to your pillow and tracks your sleep during the night. 
+ 
 
-
+You may need to pull it taut between two hands.
 [Video/Picture]
+
+
+Having trouble? [Link to video or help page]
+
 	
