@@ -12,6 +12,9 @@ unzip awscli-bundle.zip
 # invoke hugo to build /public
 ./hugo-ci
 
+#copy 404 page to error page
+cp public/404.html public/error.html
+
 # clear all existing content in s3 bucket
 /home/travis/bin/aws s3 rm s3://staging-user.hello.is/ --recursive
 
