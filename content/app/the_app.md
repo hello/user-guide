@@ -11,10 +11,13 @@ weight: 1
 ## Where to get the app
 
 
+Intro to why you need the app.
+
 Get the app:
 
 
-App Store
+senseapp.com
 
 
-Play Store
+Play Store [link]
+App Store [link]
