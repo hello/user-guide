@@ -1,11 +1,13 @@
 ---
-date: 2012-07-01
 menu:
   main:
     parent: safety
-title: power
+next: /safety/pill-safety
+title: Powering Sense
 weight: 1
 ---
 
-## Power 
-something about power
+## Powering Sense
+
+
+Sense should be powered with the wall adaptor and cable provided. Sense will not work with accessories from other manufacturers.
