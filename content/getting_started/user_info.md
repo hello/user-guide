@@ -10,6 +10,8 @@ weight: 3
 
 ## User Information
 
-Explain why and how we use their information (Bithday, Gender, Height, Weight)
+Why we use it.
+Why do you need height, weight, gender
+You can skip
 
 

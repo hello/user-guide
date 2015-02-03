@@ -11,16 +11,6 @@ weight: 2
 ## Current Conditions
 
 
-Current Temperature
+Screen shots
 
-
-Current Humidity
-
-
-Current Air Quality 
-
-
-Current Light Level
-
-
-Current Sound Level
+The Current Conditions view shows the conditions in your bedroom. Tap any of the cards to see more detail.

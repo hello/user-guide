@@ -4,7 +4,7 @@ menu:
     parent: sensors
 next: /sensors/light
 title: Microphone
-weight: 5
+weight: 1
 ---
 
 ## Microphone

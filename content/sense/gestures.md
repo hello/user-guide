@@ -10,26 +10,19 @@ weight: 2
 
 ## Gestures
 
-Distance and speed
+
+The only gesture you need to use with Sense is waving your hand over it.
 
 
-[Video/Picture]
+When you do wave your hand over Sense, make sure you keep your hand close to Sense and move your hand at a steady pace. 
 
 
-To know conditions in your room.
-
-Wave your hand over Sense, and instantly you’ll know about the conditions in your room.
-
-
+Once you wave your hand over Sense, it’ll tell you the status of your bedroom through glowing different colors. 
 Green means everything is good.
-
-
 Yellow mean something’s a little off.
-
-
 Orange means you should adjust something.
 
 
-Turn off Smart alarm.
+You can also wave your hand over Sense to turn off the alarm.
 
-Wave your hand over Sense.
+

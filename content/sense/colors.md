@@ -10,20 +10,17 @@ weight: 3
 
 ## Colors
 
-You’ll want to check that everything’s set for a good nights sleep. Simply wave your hand over Sense, and instantly you’ll know about the conditions in your room.  
+Understanding the colors of your bedroom.
 
-Good - Green
 
-Okay - Yellow 
+Green means everything is good.
+Yellow mean something’s a little off.
+Orange means you should adjust something.
 
-Bad - Orange
+Understanding other Sense colors.
+
 
 Purple - Pairing mode
-
 Spinning Yellow - Unsupported power adapter 
-
 Spinning Red - No internet connection
 
-Red Flash - Pill Color
-
-Blue Flash - Pill Color

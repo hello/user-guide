@@ -11,4 +11,4 @@ weight: 6
 ## Sleep Trends
 
 
-Content TBD
+The Trends view will show you longer term data about your sleep.

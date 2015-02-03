@@ -11,4 +11,5 @@ weight: 7
 ## Sleep Insights
 
 
-Content TBD
+This view will show you personalized Sleep Insights based on your sleep data. From time to time, you’ll also see Questions in this space -- these questions help Sense to understand you and your sleep better.
+
