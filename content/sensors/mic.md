@@ -3,7 +3,7 @@ menu:
   main:
     parent: sensors
 next: /sensors/light
-title: Mic
+title: Microphone
 weight: 5
 ---
 
