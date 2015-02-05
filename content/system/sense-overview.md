@@ -3,7 +3,7 @@ menu:
   main:
     parent: system
 next: /system/pill-overview
-title: sense overview
+title: Sense
 weight: 1
 ---
 ## Sense Overview

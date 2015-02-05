@@ -4,7 +4,7 @@ menu:
     parent: system
 prev: /system/pill-overview
 next: /system/app-overview
-title: smart alarm overview
+title: Smart Alarm
 weight: 3
 ---
 

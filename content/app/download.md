@@ -3,7 +3,7 @@ menu:
   main:
     parent: app
 prev: /getting-started/pair-second-pill
-next: /senes app/current-conditions
+next: /app/current-conditions
 title: get the app
 weight: 1
 ---

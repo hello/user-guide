@@ -2,8 +2,8 @@
 menu:
   main:
     parent: getting started
-prev: /getting-started/pair-sleep-pill
-next: /getting-started/pair-second-pill
+prev: /getting-started/pairing-sleep-pill
+next: /getting-started/pairing-second-sleep-pill
 title: clipping your sleep pill
 weight: 7
 ---

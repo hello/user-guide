@@ -2,7 +2,7 @@
 menu:
   main:
     parent: third party apps
-prev: /3rd-party-apps/health-kit/
+prev: /third-party-apps/health-kit/
 next: /safety/power
 title: Google Fit
 
