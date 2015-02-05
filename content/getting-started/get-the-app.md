@@ -3,7 +3,7 @@ menu:
   main:
     parent: getting started
 prev: /getting-started/accessories-overview
-next: /getting-started/set-up-sense
+next: /getting-started/setup
 title: where to get the app
 weight: 1
 ---

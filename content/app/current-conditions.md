@@ -2,7 +2,7 @@
 menu:
   main:
     parent: app
-prev: /app/the-app
+prev: /app/download
 next: /app/alarms
 title: current conditions
 weight: 2

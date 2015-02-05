@@ -5,7 +5,7 @@ menu:
     parent: system
 prev: /system/sense-overview
 next: /system/smart-alarm-overview
-title: sleep pill overview
+title: Pill
 weight: 2
 ---
 

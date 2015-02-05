@@ -3,6 +3,7 @@ menu:
   main:
     parent: getting started
 prev: /getting-started/clip-sleep-pill
+next: /app/download
 title: Pair a second sleep pill
 weight: 8
 ---

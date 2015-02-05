@@ -2,9 +2,9 @@
 menu:
   main:
     parent: system
-prev: /system/smart-alarm
-next: /system/accessories
-title: app overview
+prev: /system/smart-alarm-overview
+next: /system/accessories-overview
+title: App
 weight: 4
 ---
 
