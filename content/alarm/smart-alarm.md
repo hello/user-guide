@@ -14,3 +14,5 @@ Waking up should feel great. Sense's Smart Alarm is designed to wake you up in t
 
 
 You’ll be able to choose from ten custom alarm tones.
+
+![alt text](/img/alarms.jpg)
