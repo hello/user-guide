@@ -14,3 +14,6 @@ Waking up should feel great. Sense's Smart Alarm is designed to wake you up in t
 
 {{% image sleep-trends jpg oops %}}
 {{% youtube QlpzTM4euCQ %}}
+
+Instruction
+{{% collapsible iPhone Android %}}
