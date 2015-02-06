@@ -1,5 +1,5 @@
 ---
-title: Paring your Sleep Pill
+title: Pairing your Sleep Pill
 weight: 1
 ---
 
