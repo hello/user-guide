@@ -423,3 +423,7 @@ details details summary {
 .panel {
     padding: 0 30px;
 }
+
+.post-title {
+    text-align: center;
+}

@@ -7,8 +7,7 @@ title: Legal
 weight: 4
 ---
 
-## Legal
-
+{{% title "Legal" %}}
 
 Handling Information: 
 Sense is intended for indoor use at reasonable temperatures. 
