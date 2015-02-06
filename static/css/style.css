@@ -419,3 +419,7 @@ details details summary {
 #logo {
     height: 35px;
 }
+
+.panel {
+    padding: 0 30px;
+}
