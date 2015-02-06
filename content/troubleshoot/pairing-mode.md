@@ -1,7 +1,4 @@
 ---
-menu:
-  main:
-    parent: troubleshoot
 title: Putting Sense into Pairing Mode
 weight: 1
 ---
