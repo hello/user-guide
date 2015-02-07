@@ -47,12 +47,17 @@
         margin: 0px !important;
     }
 
+    .panel {
+        padding: 0;
+    }
+
     .btn {
         margin-bottom: 5px;
     }
-    .navigation {
+    
+    /*.navigation {
         display: none;
-    }
+    }*/
 }
 
 @media (max-width: 993px) {
