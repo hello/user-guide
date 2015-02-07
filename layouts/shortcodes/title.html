@@ -1,1 +1,1 @@
-<h2 class="post-title">{{ if isset .Params 0 }} {{ index .Params 0 }} {{ end }}</h2>
+<h2 class="post-title">{{ if isset .Params "name" }} {{.Get "name"}} {{ end }}</h2>
