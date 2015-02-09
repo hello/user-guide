@@ -53,6 +53,7 @@ a, a:hover, a:focus {
 .panel-body a {
     line-height: 1.1;
     display: inline-block;
+    text-align: justify;
 }
 .panel-body a:after {
   display: block;
