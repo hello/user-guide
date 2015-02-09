@@ -45,21 +45,42 @@ function initializeJS() {
 
 
     // sidebar menu toggle
-    jQuery(function() {
-        function responsiveView() {
-            var wSize = jQuery(window).width();
-            if (wSize <= 768) {
-                // jQuery('#container').addClass('sidebar-close');
-                jQuery('#sidebar > ul').hide();
-            }
+    // jQuery(function() {
+    //     function responsiveView() {
+    //         $(window).resize(function() {
+    //             var wSize = jQuery(window).width();
+    //             console.log(wSize);
+    //             if (wSize <= 768) {
+    //                 // $(window).scroll(function() { alert("Scrolled"); });
+    //                 jQuery('#container').addClass('sidebar-close');
+    //                 jQuery('#sidebar > ul').hide();
+    //                 jQuery('#main-content').show();
+    //             }
 
-            if (wSize > 768) {
-                jQuery('#container').removeClass('sidebar-close');
-                jQuery('#sidebar > ul').show();
-            }
+    //             if (wSize > 768) {
+    //                 jQuery('#container').removeClass('sidebar-close');
+    //                 jQuery('#sidebar > ul').show();
+    //             }
+    //         });
+    //     }
+    //     jQuery(window).on('load', responsiveView);
+    //     jQuery(window).on('resize', responsiveView);
+    // });
+
+    jQuery(window).load(function() {
+        var wSize = jQuery(window).width();
+        console.log(wSize);
+        if (wSize <= 768) {
+            // $(window).scroll(function() { alert("Scrolled"); });
+            jQuery('#container').addClass('sidebar-close');
+            jQuery('#sidebar > ul').hide();
+            jQuery('#main-content').show();
         }
-        jQuery(window).on('load', responsiveView);
-        jQuery(window).on('resize', responsiveView);
+
+        if (wSize > 768) {
+            jQuery('#container').removeClass('sidebar-close');
+            jQuery('#sidebar > ul').show();
+        }
     });
 
     jQuery('.toggle-nav').click(function () {
