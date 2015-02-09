@@ -1,7 +1,5 @@
 function initializeJS() {
 
-    var userAgent = navigator.userAgent || navigator.vendor || window.opera;
-
     //tool tips
     jQuery('.tooltips').tooltip();
 
@@ -67,7 +65,7 @@ function initializeJS() {
     });
 
     jQuery(window).resize(function() {
-        var isSafariAndiOS = userAgent.indexOf("Apple")==0 && /\sSafari\//.test(navigator.userAgent) && navigator.userAgent.match(/(iPod|iPhone|iPad)/)
+        var isSafariAndiOS = navigator.userAgent.toLowerCase().indexOf('safari/') > -1 && navigator.userAgent.match(/(iPod|iPhone|iPad)/)
         if (!isSafariAndiOS) {
             responsiveView();    
         }
