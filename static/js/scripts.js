@@ -67,7 +67,7 @@ function initializeJS() {
     });
 
     jQuery(window).resize(function() {
-        var isSafariAndiOS = userAgent.indexOf("Apple")==0 && /\sSafari\//.test(navigator.userAgent) && (userAgent.match( /iPad/i ) || userAgent.match( /iPhone/i ) || userAgent.match( /iPod/i ));
+        var isSafariAndiOS = userAgent.indexOf("Apple")==0 && /\sSafari\//.test(navigator.userAgent) && navigator.userAgent.match(/(iPod|iPhone|iPad)/)
         if (!isSafariAndiOS) {
             responsiveView();    
         }
