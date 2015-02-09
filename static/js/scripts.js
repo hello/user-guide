@@ -52,7 +52,6 @@ function initializeJS() {
             // $(window).scroll(function() { alert("Scrolled"); });
             jQuery('#container').addClass('sidebar-close');
             jQuery('#sidebar > ul').hide();
-            jQuery('#main-content').show();
         }
         if (wSize > 768) {
             jQuery('#container').removeClass('sidebar-close');
@@ -65,8 +64,7 @@ function initializeJS() {
     });
 
     jQuery(window).resize(function() {
-        var isSafariAndiOS = navigator.userAgent.toLowerCase().indexOf('safari/') > -1 && navigator.userAgent.match(/(iPod|iPhone|iPad)/)
-        if (!isSafariAndiOS) {
+        if (!/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
             responsiveView();    
         }
     });
