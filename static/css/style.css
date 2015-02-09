@@ -50,7 +50,7 @@ a, a:hover, a:focus {
 }
 
 .panel-body {
-    text-align: justify !important;
+    text-align: justify;
 }
 
 .panel-body a {
@@ -427,6 +427,6 @@ details details summary {
     padding: 0 30px;
 }
 
-.post-title {
+h2, .post-title {
     text-align: center;
 }
