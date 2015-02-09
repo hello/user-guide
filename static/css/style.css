@@ -226,7 +226,7 @@ ul.sidebar-menu li.active a i {
 }
 
 #main-content {
-    margin-left: 200px;
+    margin-left: 150px;
     line-height: 1.8;
     font-size: 19px;
 }
@@ -339,18 +339,19 @@ h1.top-menu {
     bottom: 0;
     margin: 0;
     max-width: 150px;
-    min-width: 90px;
+    min-width: 42px;
     width:100%;
     min-height:1200px;
     cursor:pointer;
     display: flex;
-    align-content: center;
+    align-content: /*center*/;
     flex-direction: column;
     font-size: 6em;
     color: rgba(0,0,0,0.5);
     text-align: center;
     -webkit-transition: all 350ms ease;
     transition: all 350ms ease;
+    z-index: 2000;
 }
 
 .navigation.next {
@@ -429,4 +430,12 @@ details details summary {
 
 h2, .post-title {
     text-align: center;
+}
+
+.next {
+    margin-left: 100;
+}
+
+.next-wrapper {
+    margin-left: -15px;
 }
