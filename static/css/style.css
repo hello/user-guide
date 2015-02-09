@@ -49,11 +49,13 @@ a, a:hover, a:focus {
     outline: 0;
 }
 
+.panel-body {
+    text-align: justify !important;
+}
 
 .panel-body a {
     line-height: 1.1;
     display: inline-block;
-    text-align: justify;
 }
 .panel-body a:after {
   display: block;
