@@ -1,5 +1,7 @@
 function initializeJS() {
 
+    var userAgent = navigator.userAgent || navigator.vendor || window.opera;
+
     //tool tips
     jQuery('.tooltips').tooltip();
 
@@ -45,29 +47,7 @@ function initializeJS() {
 
 
     // sidebar menu toggle
-    // jQuery(function() {
-    //     function responsiveView() {
-    //         $(window).resize(function() {
-    //             var wSize = jQuery(window).width();
-    //             console.log(wSize);
-    //             if (wSize <= 768) {
-    //                 // $(window).scroll(function() { alert("Scrolled"); });
-    //                 jQuery('#container').addClass('sidebar-close');
-    //                 jQuery('#sidebar > ul').hide();
-    //                 jQuery('#main-content').show();
-    //             }
-
-    //             if (wSize > 768) {
-    //                 jQuery('#container').removeClass('sidebar-close');
-    //                 jQuery('#sidebar > ul').show();
-    //             }
-    //         });
-    //     }
-    //     jQuery(window).on('load', responsiveView);
-    //     jQuery(window).on('resize', responsiveView);
-    // });
-
-    jQuery(window).load(function() {
+    function responsiveView() {
         var wSize = jQuery(window).width();
         console.log(wSize);
         if (wSize <= 768) {
@@ -76,10 +56,20 @@ function initializeJS() {
             jQuery('#sidebar > ul').hide();
             jQuery('#main-content').show();
         }
-
         if (wSize > 768) {
             jQuery('#container').removeClass('sidebar-close');
             jQuery('#sidebar > ul').show();
+        }
+    }
+    
+    jQuery(window).load(function() {
+        responsiveView();
+    });
+
+    jQuery(window).resize(function() {
+        var isSafariAndiOS = userAgent.indexOf("Apple")==0 && /\sSafari\//.test(navigator.userAgent) && (userAgent.match( /iPad/i ) || userAgent.match( /iPhone/i ) || userAgent.match( /iPod/i ));
+        if (!isSafariAndiOS) {
+            responsiveView();    
         }
     });
 
