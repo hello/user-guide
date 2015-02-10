@@ -13,3 +13,4 @@ weight: 5
 
 Swipe left or right on the timeline to navigate forward or back a day. Tap the date at the top to zoom out.
 
+![](/img/sleep-trends.jpeg)

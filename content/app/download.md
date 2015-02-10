@@ -11,13 +11,14 @@ weight: 1
 ## Where to get the app
 
 
-Intro to why you need the app.
+To set-up Sense, you will first need to download the Sense app which you can find at:
 
-Get the app:
+[Senseapp.com](hello.is)
+
+[Play Store](https://play.google.com/store)
+
+[App Store](https://itunes.apple.com/us/genre/ios/id36?mt=8)
 
 
-senseapp.com
 
-
-Play Store [link]
-App Store [link]
+The app will guide you through the set-up process. The app is where all your sleep data is stored - you’ll be able to see your Timeline, Trends and Sleep Insights. You’ll also be able to set your Smart Alarm.
