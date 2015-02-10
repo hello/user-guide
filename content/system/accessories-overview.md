@@ -10,17 +10,20 @@ weight: 5
 
 ## Accessories Overview
 
-Sense
+What you’ll find inside:
 
 
-Sleep Pill
+Your Sense
 
 
-Micro USB Cable
+A Sleep Pill
 
 
-USB Power Adapter
+Power adaptor
 
 
-Documentation
+Cable 
+
+
+Instructions on how to get started
 
