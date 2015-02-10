@@ -10,7 +10,7 @@ function initializeJS() {
     $('#sidebar .sub-menu > a').click(function () {
         // Close previous open submenu
         var last = $('.sub.open', $('#sidebar'));
-        $(last).slideUp(200);
+        $(last).slideUp(50);
         $(last).removeClass("open");
         $('.menu-arrow', $(last).parent()).addClass('fa-angle-right');
         $('.menu-arrow', $(last).parent()).removeClass('fa-angle-down');
@@ -20,12 +20,12 @@ function initializeJS() {
         if (sub.is(":visible")) {
             $('.menu-arrow', this).addClass('fa-angle-right');
             $('.menu-arrow', this).removeClass('fa-angle-down');
-            sub.slideUp(200);
+            sub.slideUp(50);
             $(sub).removeClass("open")
         } else {
             $('.menu-arrow', this).addClass('fa-angle-down');
 			$('.menu-arrow', this).removeClass('fa-angle-right');
-            sub.slideDown(200);
+            sub.slideDown(50);
             $(sub).addClass("open")
         }
 
