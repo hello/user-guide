@@ -10,7 +10,7 @@ weight: 2
 
 ## Setup Sense Overview
 
-[Video]
+[!Setup Video](/img/hello-thumb.jpeg)](https://www.youtube.com/watch?v=Hg1e5AaR6g4)
 
 
 
