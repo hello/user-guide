@@ -8,10 +8,15 @@ weight: 1
 ---
 ## Sense Overview
 
-The first system for understanding your sleep and bedroom.
-
-
 Sense is a simple system that tracks your sleep, monitors the environment in your bedroom and reinvents the alarm, so you can sleep better.
 
 
-Sense sits on your bedside table and combines the insight of your sleep patterns with the data of the environment in your bedroom, including noise, light, temperature, humidity and particles in the air. When you know what helps or hinders your sleep, you can fix it.
+
+
+Sense sits on your bedside table and tracks the data of the environment in your bedroom, including noise, light, temperature, humidity and particles in the air. While the Sleep Pill clips onto your pillow and monitors how you sleep.
+
+
+
+
+If you truly want to understand your sleep and improve it, you need to know about the room you sleep in and how that impacts your sleep. Tracking just your sleep cycles does not suffice. Sense from Hello has been built to change that.
+
