@@ -9,19 +9,7 @@ weight: 1
 
 ## Charging
 
-Make sure Sense is plugged into a wall outlet next to your bed.
-
-
-Sense is not battery powered, must be plugged in.
-
-
-Use our adapter (not iPhone adapter)
-
-Near bed
-
-Night stand
-
-Within wifi range
+Sense should sit on your nightstand or somewhere near your bed and should be within WiFi range. 
 
 
 [Picture/video]
