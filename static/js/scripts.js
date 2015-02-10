@@ -47,7 +47,6 @@ function initializeJS() {
     // sidebar menu toggle
     function responsiveView() {
         var wSize = $(window).width();
-        console.log(wSize);
         
         if (wSize <= 768) {
             // $(window).scroll(function() { alert("Scrolled"); });
@@ -55,9 +54,13 @@ function initializeJS() {
             $('#sidebar > ul').hide();
 
             $('.toggle-nav').click(function () {
-                if ($('#sidebar > ul').is(":visible") === false) {
+                if ($('#sidebar > ul').is(":visible")) {
                     $('#main-content').hide();
                     $('.navigation').hide();
+                }
+                else {
+                    $('#main-content').show();
+                    $('.navigation').show();   
                 }
             });
         }
