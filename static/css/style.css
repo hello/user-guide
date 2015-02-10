@@ -430,6 +430,7 @@ details details summary {
 
 h2, .post-title {
     text-align: center;
+    font-weight: bold;
 }
 
 .next {
