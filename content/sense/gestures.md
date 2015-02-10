@@ -18,8 +18,11 @@ When you do wave your hand over Sense, make sure you keep your hand close to Sen
 
 
 Once you wave your hand over Sense, it’ll tell you the status of your bedroom through glowing different colors. 
+
 - Green means everything is good.
+
 - Yellow mean something’s a little off.
+
 - Orange means you should adjust something.
 
 
