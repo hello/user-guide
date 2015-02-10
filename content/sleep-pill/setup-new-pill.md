@@ -18,7 +18,7 @@ Sleep Pill clips to your pillow and tracks your sleep during the night. Each per
 
 When prompted, shake your Sleep Pill for three seconds to pair it with your Sense. You may need to shake it quickly for it to register.
 
-[Sleep Pill Paired](/img/pill-paired.png)
+![Sleep Pill Paired](/img/pill-paired.png)
 
 [Pair a Second Sleep Pill?](http://staging-user.hello.is/sleep-pill/pair-a-second-sleep-pill/)
 
