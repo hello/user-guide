@@ -5,7 +5,7 @@ menu:
 prev: /app/current-conditions
 next: /app/sleep-timeline
 title: alarms
-weight: 3
+weight: 8
 ---
 
 ## Alarms

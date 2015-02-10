@@ -5,7 +5,7 @@ menu:
 prev: /app/alarms
 next: /app/navigating-days
 title: reading your sleep timeline
-weight: 4
+weight: 3
 ---
 
 ## Reading your Sleep Timeline
