@@ -5,7 +5,7 @@ menu:
 prev: /app/navigating-days
 next: /app/sleep-insights
 title: sleep trends
-weight: 6
+weight: 5
 ---
 
 ## Sleep Trends
