@@ -4,7 +4,7 @@ menu:
     parent: sleep pill
 prev: /sleep-pill/clip-pill
 next: /sleep-pill/maintain-pill
-title: battery-change
+title: battery change
 weight: 5
 ---
 
