@@ -13,18 +13,18 @@ weight: 3
 ### Understanding the colors of your bedroom.
 
 
-Green means everything is good.
+- Green means everything is good.
 
-Yellow mean something’s a little off.
+- Yellow mean something’s a little off.
 
-Orange means you should adjust something.
+- Orange means you should adjust something.
 
 ### Understanding other Sense colors.
 
 
-Purple - Pairing mode
+- Purple - Pairing mode
 
-Spinning Yellow - Unsupported power adapter 
+- Spinning Yellow - Unsupported power adapter 
 
-Spinning Red - No internet connection
+- Spinning Red - No internet connection
 
