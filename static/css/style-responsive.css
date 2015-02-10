@@ -1,4 +1,7 @@
 @media (max-width: 768px) {
+    #sidebar > ul {
+        display: none;
+    }
 
     .header {
         position: absolute;
