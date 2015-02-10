@@ -48,11 +48,20 @@ function initializeJS() {
     function responsiveView() {
         var wSize = $(window).width();
         console.log(wSize);
+        
         if (wSize <= 768) {
             // $(window).scroll(function() { alert("Scrolled"); });
             $('#container').addClass('sidebar-close');
             $('#sidebar > ul').hide();
+
+            $('.toggle-nav').click(function () {
+                if ($('#sidebar > ul').is(":visible") === false) {
+                    $('#main-content').hide();
+                    $('.navigation').hide();
+                }
+            });
         }
+        
         if (wSize > 768) {
             $('#container').removeClass('sidebar-close');
             $('#sidebar > ul').show();
