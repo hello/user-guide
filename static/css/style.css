@@ -51,6 +51,7 @@ a, a:hover, a:focus {
 
 .panel-body {
     text-align: justify;
+    min-height: 100vh;
 }
 
 .panel-body a {
@@ -234,9 +235,8 @@ ul.sidebar-menu li.active a i {
 .header {
     min-height: 60px;
     padding: 0 10px;
-}
-.header {
     position: fixed;
+    top: 0;
     left: 0;
     right: 0;
     z-index: 1002;
@@ -335,23 +335,22 @@ h1.top-menu {
 .navigation {
     position: absolute;
     padding-top: 0.3em;
+    padding-left: 62%;
     top: 0;
     bottom: 0;
     margin: 0;
     max-width: 150px;
     min-width: 42px;
-    width:100%;
-    min-height:1200px;
+    width: 100%;
+    min-height: 100vh;
     cursor:pointer;
     display: flex;
     align-content: /*center*/;
     flex-direction: column;
     font-size: 6em;
     color: rgba(0,0,0,0.5);
-    text-align: center;
     -webkit-transition: all 350ms ease;
     transition: all 350ms ease;
-    z-index: 2000;
 }
 
 .navigation.next {
@@ -386,7 +385,9 @@ div.title-row>h1.top-menu {
 }
 
 .navigation>i {
-  font-size: 40px;
+    font-size: 3vh;
+    position: fixed;
+    top: 50%;
 }
 
 .top-menu {
@@ -433,10 +434,6 @@ h2, .post-title {
     font-weight: bold;
 }
 
-.next {
-    margin-left: 100;
-}
-
 .next-wrapper {
     margin-left: -15px;
 }
@@ -455,4 +452,9 @@ h2, .post-title {
     left: 0;
     width: 100%;
     height: 100%;
+}
+
+.mobile-nav {
+    margin-bottom: 0;
+    margin-top: 10px;
 }

@@ -113,7 +113,8 @@ function initializeJS() {
             }, 2000)
         })
     }
-
+    //adjust nav bars height
+    $(".navigation").css("height", $('.panel-body').height());
 }
 
 $(document).ready(function(){
