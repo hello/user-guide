@@ -15,10 +15,9 @@ unzip awscli-bundle.zip
 #copy 404 page to error page
 cp public/404.html public/error.html
 
-#!/bin/bash
-if [[ $TRAVIS_BRANCH == 'staging' ]]
-	# clear all existing content in s3 bucket
-	/home/travis/bin/aws s3 rm s3://staging-user.hello.is/ --recursive
-	# run awscli s3 command to upload /public to s3 bucket
-	/home/travis/bin/aws s3 cp public/ s3://staging-user.hello.is/ --recursive
-fi
+echo $TRAVIS_BRANCH
+
+# clear all existing content in s3 bucket
+/home/travis/bin/aws s3 rm s3://staging-user.hello.is/ --recursive
+# run awscli s3 command to upload /public to s3 bucket
+/home/travis/bin/aws s3 cp public/ s3://staging-user.hello.is/ --recursive
