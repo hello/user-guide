@@ -26,6 +26,11 @@ fi
 
 if [ $TRAVIS_BRANCH == 'master' ]; then
 	echo "Uploading to master s3"
+
+	# Update master base url
+	mv public/config.toml public/config-staging.toml
+	sed 's/http:\/\/staging-user.hello.is/http:\/\/guide.hello.is/g' config-staging.toml > config.toml
+
 	# run awscli s3 command to upload /public to master bucket to have it published
 	# TODO: update bucket name correctly here
 	/home/travis/bin/aws s3 cp public/ s3://staging-user.hello.is/ --recursive
