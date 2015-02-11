@@ -2,7 +2,7 @@
 menu:
   main:
     parent: getting started
-prev: /getting-started/accessories-overview
+prev: /system/accessories-overview
 next: /getting-started/setup
 title: where to get the app
 weight: 1
@@ -12,11 +12,11 @@ weight: 1
 
 To set-up Sense, you will first need to download the Sense app which you can find at:
 
-[Senseapp.com](hello.is)
+- [Senseapp.com](hello.is)
 
-[Play Store](https://play.google.com/store)
+- [Play Store](https://play.google.com/store)
 
-[App Store](https://itunes.apple.com/us/genre/ios/id36?mt=8)
+- [App Store](https://itunes.apple.com/us/genre/ios/id36?mt=8)
 
 
 

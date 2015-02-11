@@ -3,8 +3,8 @@ python:
 - '2.7'
 script: ./cibuild.sh
 branches:
-  only:
   - staging
+  - master
 env:
   global:
   - secure: YnC9tN12rvCi4/l5d7I0kYZsuGvsP8Yl2Akcsknc/vFeo+smbGvz1yj3OEjtY/SyhZ9a9v0KJmWgZl89c7tp0CYFhNJkePf8ztKv2bBIiWycvCk7Om6DyHaWFQg0FcM/5nEF/RLikosStrzt0VT04+etX2oJX0o7s+K59DFN+t8=

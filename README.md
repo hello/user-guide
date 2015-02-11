@@ -17,7 +17,10 @@
   - Some useful options are --buildDrafts --port=1234 --verboseLog --watch
   - Page is now ready at localhost:1234
 
-5. Notes:
+5. Base URL;
+  - When a merge from staging to master happens, a sed script will automatically update baseurl from  `http://staging-user.hello.is` to `https://guide.hello.is`
+
+6. Notes:
   - In my experience, sometimes you change the static content but the page doesn't reflect it, probably the stuff inside /public is messed up. All we need is a hard reset i.e: stop the server, removing /public before compiling & starting server again
     - ctr + C
     - `rm -rf public`
