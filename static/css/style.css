@@ -434,7 +434,7 @@ details details summary {
     overflow: hidden;
 }
 
-.youtube-player {
+.youtube-player, .vimeo-player {
     position: absolute;
     top:0;
     left: 0;
