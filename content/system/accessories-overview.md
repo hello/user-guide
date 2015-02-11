@@ -2,7 +2,7 @@
 menu:
   main:
     parent: system
-prev: /system/sense-app-overview
+prev: /system/app-overview
 next: /getting-started/get-the-app
 title: accessories
 weight: 5
@@ -13,17 +13,17 @@ weight: 5
 What you’ll find inside:
 
 
-Your Sense
+- Your Sense
 
 
-A Sleep Pill
+- A Sleep Pill
 
 
-Power adaptor
+- Power adaptor
 
 
-Cable 
+- Cable 
 
 
-Instructions on how to get started
+[Instruction video on how to get started]
 
