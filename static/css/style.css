@@ -294,9 +294,10 @@ h1.top-menu {
 /*--sidebar toggle---*/
 
 .toggle-nav {
+    font-size: 25px;
     float: left;
     padding-right: 5px;
-    margin-top: 20px;
+    margin: 12px 0 0 8px;
     cursor: pointer;
     color: gray;
 }
@@ -304,7 +305,7 @@ h1.top-menu {
 .toggle-nav .icon-reorder {
     cursor: pointer;
     display: inline-block;
-    font-size: 20px;
+    font-size: 25px;
 }
 
 
