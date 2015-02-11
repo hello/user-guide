@@ -17,8 +17,16 @@ cp public/404.html public/error.html
 
 #!/bin/bash
 if [ $TRAVIS_BRANCH == 'staging' ]; then
+	echo "Uploading to staging s3"
 	# clear all existing content in s3 bucket
 	/home/travis/bin/aws s3 rm s3://staging-user.hello.is/ --recursive
-	# run awscli s3 command to upload /public to s3 bucket
+	# run awscli s3 command to upload /public to staging bucket for internal testing
+	/home/travis/bin/aws s3 cp public/ s3://staging-user.hello.is/ --recursive
+fi
+
+if [ $TRAVIS_BRANCH == 'master' ]; then
+	echo "Uploading to master s3"
+	# run awscli s3 command to upload /public to master bucket to have it published
+	# TODO: update bucket name correctly here
 	/home/travis/bin/aws s3 cp public/ s3://staging-user.hello.is/ --recursive
 fi
