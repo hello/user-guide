@@ -1,4 +1,4 @@
-baseurl = "http://staging-user.hello.is"
+baseurl = "https://guide.hello.is"
 MetaDataFormat = "yaml"
 
 
