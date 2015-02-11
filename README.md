@@ -29,6 +29,7 @@
   - Anything commited to staging will immediately trigger travis build which is responsible for http://staging-user.hello.is/ (only accessible within Hello wifi)
   - Master branch will be responsible for https://user.hello.is (doesn't exist yet) which is our official support site for customers.
   - Always start with your personal branch and make pull request to staging. Staging content should be tested extensively before getting merged to master.
+  - Never merge master to staging !
   
 ####  Page Structure
 1. Domain
