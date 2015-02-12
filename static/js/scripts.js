@@ -87,13 +87,13 @@ function initializeJS() {
                 'margin-left': '0px'
             });
             $('#sidebar').css({
-                'margin-left': '-180px'
+                'margin-left': '-200px'
             });
             $('#sidebar > ul').hide();
             $("#container").addClass("sidebar-closed");
         } else {
             $('#main-content').css({
-                'margin-left': '180px'
+                'margin-left': '200px'
             });
             $('#sidebar > ul').show();
             $('#sidebar').css({
