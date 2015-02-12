@@ -47,6 +47,6 @@ if [ $TRAVIS_BRANCH == 'master' ]; then
 
 	# run awscli s3 command to upload /public to master bucket to have it published
 	# TODO: update bucket name correctly here
-	echo "Uploading to master s3, see base url below"
+	echo "Uploading to master s3"
 	/home/travis/bin/aws s3 cp public/ s3://staging-user.hello.is/ --recursive
 fi
