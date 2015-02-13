@@ -3,7 +3,7 @@ menu:
   main:
     parent: sense
 prev: /sense/gestures
-next: /sense/location
+next: /sleep-pill/pill-colors
 title: colors
 weight: 3
 ---

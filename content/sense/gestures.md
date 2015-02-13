@@ -3,7 +3,7 @@ menu:
   main:
     parent: sense
 prev: /sense/charging
-next: /sense/gestures
+next: /sense/colors
 title: gestures
 weight: 2
 ---
