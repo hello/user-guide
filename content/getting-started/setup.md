@@ -13,6 +13,7 @@ weight: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 {{% youtube Hg1e5AaR6g4 %}}
@@ -20,11 +21,6 @@ weight: 2
 {{% vimeo 101139949 %}}
 >>>>>>> FETCH_HEAD
 =======
-{{% vimeo 101663026 %}}
->>>>>>> FETCH_HEAD
-=======
-{{% vimeo 101663026 %}}
->>>>>>> FETCH_HEAD
 
 1. Place your Sense on a nightstand next to your bed.
 
