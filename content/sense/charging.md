@@ -2,6 +2,7 @@
 menu:
   main:
     parent: sense
+prev: /app/acount-settings
 next: /sense/gestures
 title: charging
 weight: 1
