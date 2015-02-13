@@ -10,12 +10,6 @@ weight: 2
 
 ## Setup Sense Overview
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-
 {{% youtube Hg1e5AaR6g4 %}}
 =======
 {{% vimeo 101139949 %}}
