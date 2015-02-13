@@ -2,7 +2,7 @@
 menu:
   main:
     parent: app
-prev: /app/alarms
+prev: /app/current-conditions
 next: /app/navigating-days
 title: reading your sleep timeline
 weight: 3

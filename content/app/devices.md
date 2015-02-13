@@ -2,7 +2,7 @@
 menu:
   main:
     parent: app
-prev: /app/enhanced-audio
+prev: /app/alarms
 next: /app/wifi
 title: devices
 weight: 9

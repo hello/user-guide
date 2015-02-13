@@ -2,7 +2,7 @@
 menu:
   main:
     parent: app
-prev: /getting-started/pair-second-pill
+prev: /getting-started/pairing-second-sleep-pill
 next: /app/current-conditions
 title: get the app
 weight: 1
