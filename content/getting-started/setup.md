@@ -10,7 +10,7 @@ weight: 2
 
 ## Setup Sense Overview
 
-{{% vimeo 101663026 %}}
+{{% vimeo 101139949 %}}
 
 1. Place your Sense on a nightstand next to your bed.
 
