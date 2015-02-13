@@ -11,8 +11,8 @@ table {
 
 
 h1, h2, h3 {
-    margin-top: .8em;
-    margin-bottom: .7em;
+    margin-top: 1em;
+    margin-bottom: 1em;
 }
 
 pre code {
@@ -22,16 +22,12 @@ pre code {
 
 body {
     color: #353b44;
-    background: #edece4;
-    font-family: 'Lato', sans-serif;
+    background: #f2f2f2;
+    font-family: 'proxima-nova', sans-serif;
     padding: 0px !important;
     margin: 0px !important;
     font-size:16px !important;    
     font-weight: 300;
-}
-
-h1,h2,h3,h4,h5{
-    font-weight: 400;
 }
 
 label{
@@ -49,6 +45,10 @@ a, a:hover, a:focus {
     outline: 0;
 }
 
+.panel-body {
+    text-align: justify;
+    min-height: 100vh;
+}
 
 .panel-body a {
     line-height: 1.1;
@@ -73,11 +73,11 @@ a, a:hover, a:focus {
 input:focus, textarea:focus { outline: none; }
 *:focus {outline: none;}
 ::selection {
-    background: rgba(154, 240, 64, 0.28);
+    background: rgba(0, 156, 255, 0.25);
     color: #000000;
 }
 ::-moz-selection {
-    background: rgba(154, 240, 64, 0.28);
+    background: rgba(0, 156, 255, 0.25)
     color: #000000;
 }
 
@@ -127,10 +127,9 @@ ul.sidebar-menu li ul.sub li:last-child{
 }
 
 ul.sidebar-menu li ul.sub li a {
-    font-size: 12px;
-    padding: 0 0 0 32px;
-    line-height: 35px;
-    height: 35px;
+    padding: 0 0 0 16px;
+    line-height: 48px;
+    height: 48px;
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
@@ -141,7 +140,7 @@ ul.sidebar-menu li ul.sub li a {
 }
 
 ul.sidebar-menu li ul.sub li a:hover, ul.sidebar-menu li ul.sub li.active a {
-    color: #6FBB20;
+    color: #009CFF;
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
@@ -168,9 +167,8 @@ ul.sidebar-menu li a{
     color: #8b9199;
     text-decoration: none;
     display: block;
-    padding: 10px 0 10px 10px;
+    padding: 18px 0 14px 10px;
     font-size: 16px;
-    font-weight: 300;
     outline: none;
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
@@ -184,7 +182,7 @@ ul.sidebar-menu li a{
 
 ul.sidebar-menu li.active a, ul.sidebar-menu li a:hover, ul.sidebar-menu li a:focus {
     background: #eeeeee;
-    color: #6FBB20;
+    color: #009CFF;
     display: block;
     /*border-radius: 4px;
     -webkit-border-radius: 4px;*/
@@ -195,45 +193,42 @@ ul.sidebar-menu li.active a, ul.sidebar-menu li a:hover, ul.sidebar-menu li a:fo
     transition: all 0.3s ease;        
 }
 ul.sidebar-menu li a:hover, ul.sidebar-menu li a:focus {
-    border-bottom: 1px solid #6FBB20;
+    border-bottom: 1px solid #009CFF;
 }
 /*ul.sidebar-menu li.active a,*/ ul.sidebar-menu .sub-menu li.active a{
-    border-bottom: 1px solid #6FBB20;   
+    border-bottom: 1px solid #009CFF;   
 }
 
 ul.sidebar-menu li a i {
     font-size: 18px;
     padding-right: 6px;
-    color: #6FBB20;
 }
 
 ul.sidebar-menu li a:hover i, ul.sidebar-menu li a:focus i {
-    color: #6FBB20;
+    color: #009CFF;
 }
 
 ul.sidebar-menu li.active a i {
-    color: #6FBB20;
+    color: #009CFF;
 }
 
 
 #sidebar ul > li > a .menu-arrow { 
     float: right;    
-    margin-right: 8px;
-    margin-top: 6px;    
+    margin-right: 8px;   
 }
 
 #main-content {
-    margin-left: 200px;
-    line-height: 1.8;
-    font-size: 19px;
+    margin-left: 150px;
+    line-height: 1.5;
+    font-size: 18px;
 }
 
 .header {
     min-height: 60px;
     padding: 0 10px;
-}
-.header {
     position: fixed;
+    top: 0;
     left: 0;
     right: 0;
     z-index: 1002;
@@ -259,7 +254,7 @@ a.logo {
     color: #8E8E93;
     float: left;
     margin-left: 25px;
-    margin-top: 10px;
+    margin-top: 12px;
     text-transform: uppercase;
     text-align: center;
 }
@@ -291,9 +286,10 @@ h1.top-menu {
 /*--sidebar toggle---*/
 
 .toggle-nav {
+    font-size: 25px;
     float: left;
     padding-right: 5px;
-    margin-top: 20px;
+    margin: 12px 0 0 8px;
     cursor: pointer;
     color: gray;
 }
@@ -301,7 +297,7 @@ h1.top-menu {
 .toggle-nav .icon-reorder {
     cursor: pointer;
     display: inline-block;
-    font-size: 20px;
+    font-size: 25px;
 }
 
 
@@ -332,20 +328,20 @@ h1.top-menu {
 .navigation {
     position: absolute;
     padding-top: 0.3em;
+    padding-left: 62%;
     top: 0;
     bottom: 0;
     margin: 0;
     max-width: 150px;
-    min-width: 90px;
-    width:100%;
-    min-height:1200px;
+    min-width: 42px;
+    width: 100%;
+    min-height: 100vh;
     cursor:pointer;
     display: flex;
-    align-content: center;
+    align-content: /*center*/;
     flex-direction: column;
     font-size: 6em;
-    color: rgba(0,0,0,0.5);
-    text-align: center;
+    color: rgba(0,0,0,0.1);
     -webkit-transition: all 350ms ease;
     transition: all 350ms ease;
 }
@@ -356,21 +352,21 @@ h1.top-menu {
 
 
 .navigation:hover {
-    background-color: rgba(0,0,0,0.1);
+    background-color: rgba(0,0,0,0.03);
 }
 
 a {
-  color: #6FBB20;
+  color: #009CFF;
   text-decoration: none;
 }
 a:hover,
 a:focus {
-  color: #6FBB20;
+  color: #009CFF;
   text-decoration: underline;
 }
 
 h1, h2, h3, h4, h5 {
-  font-weight: 300;
+  font-weight: 600;
 }
 
 div.notification-row>a {
@@ -382,7 +378,9 @@ div.title-row>h1.top-menu {
 }
 
 .navigation>i {
-  font-size: 40px;
+    font-size: 6vh;
+    position: fixed;
+    top: 50%;
 }
 
 .top-menu {
@@ -417,13 +415,33 @@ details details summary {
 }
 
 #logo {
-    height: 35px;
+    height: 32px;
 }
 
 .panel {
     padding: 0 30px;
 }
 
-.post-title {
-    text-align: center;
+.next-wrapper {
+    margin-left: -15px;
+}
+
+.video-player {
+    position: relative;
+    padding-bottom: 60%;
+    padding-top: 35px;
+    height: 0;
+    overflow: hidden;
+}
+
+.youtube-player, .vimeo-player {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.mobile-nav {
+    display: none;
 }

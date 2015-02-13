@@ -1,10 +1,7 @@
 @media (max-width: 768px) {
-
-    .header {
-        position: absolute;
+    #sidebar > ul {
+        display: none;
     }
-
-    /*sidebar*/
 
     #sidebar {
         height: auto;
@@ -14,10 +11,9 @@
         z-index: 1001;
     }
 
-
     /* body container */
     #main-content {
-        margin: 0px!important;
+        margin: 0 -16px 0 0 !important;
         position: none !important;
     }
 
@@ -54,13 +50,27 @@
     .btn {
         margin-bottom: 5px;
     }
+    
+    .panel-body {
+        text-align: left;
+    }
 
     .navigation {
+        z-index: 2000;
+    }
+ 
+    .next-wrapper, .prev-wrapper {
         display: none;
+    }
+
+    .mobile-nav {
+        display: inline-block;
+        margin-bottom: 0;
+        margin-top: 10px;
     }
 }
 
-@media (max-width: 993px) {
+/*@media (max-width: 993px) {
     .navigation {
         display: none;
     }
@@ -76,4 +86,4 @@
     .navigation {
         display: none;
     }
-}
+}*/

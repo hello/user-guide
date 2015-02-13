@@ -17,7 +17,10 @@
   - Some useful options are --buildDrafts --port=1234 --verboseLog --watch
   - Page is now ready at localhost:1234
 
-5. Notes:
+5. Base URL;
+  - When a merge from staging to master happens, a sed script will automatically update baseurl from  `http://staging-user.hello.is` to `https://guide.hello.is`
+
+6. Notes:
   - In my experience, sometimes you change the static content but the page doesn't reflect it, probably the stuff inside /public is messed up. All we need is a hard reset i.e: stop the server, removing /public before compiling & starting server again
     - ctr + C
     - `rm -rf public`
@@ -26,6 +29,7 @@
   - Anything commited to staging will immediately trigger travis build which is responsible for http://staging-user.hello.is/ (only accessible within Hello wifi)
   - Master branch will be responsible for https://user.hello.is (doesn't exist yet) which is our official support site for customers.
   - Always start with your personal branch and make pull request to staging. Staging content should be tested extensively before getting merged to master.
+  - Never merge master to staging !
   
 ####  Page Structure
 1. Domain
