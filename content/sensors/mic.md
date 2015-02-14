@@ -2,6 +2,7 @@
 menu:
   main:
     parent: sensors
+prev: /alarm/alarms-two-people
 next: /sensors/light
 title: Microphone
 weight: 1
