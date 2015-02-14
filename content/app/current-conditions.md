@@ -3,7 +3,7 @@ menu:
   main:
     parent: app
 prev: /app/download
-next: /app/alarms
+next: /app/sleep-timeline
 title: current conditions
 weight: 2
 ---

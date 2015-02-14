@@ -3,7 +3,7 @@ menu:
   main:
     parent: app
 prev: /app/wifi
-next: /app/software-updating
+next: /sense/charging
 title: account settings
 weight: 11
 ---

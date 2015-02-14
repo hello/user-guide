@@ -3,6 +3,7 @@ menu:
   main:
     parent: alarm
 prev: /alarm/dismissing-alarm
+next: /sensors/mic
 title: alarms with two people
 weight: 5
 ---

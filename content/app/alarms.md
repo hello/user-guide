@@ -2,8 +2,8 @@
 menu:
   main:
     parent: app
-prev: /app/current-conditions
-next: /app/sleep-timeline
+prev: /app/enhanced-audio
+next: /app/devices
 title: alarms
 weight: 8
 ---
