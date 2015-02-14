@@ -2,7 +2,7 @@
 menu:
   main:
     parent: sleep pill
-prev: /sleep-pill/pill-color
+prev: /sleep-pill/pill-colors
 next: /sleep-pill/setup-new-pill
 title: clipping sleep pill
 weight: 2

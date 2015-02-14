@@ -2,6 +2,7 @@
 menu:
   main:
     parent: alarm
+prev: /score/sharing
 next: /alarm/setting-alarm
 title: what is the smart alarm
 weight: 1
@@ -16,7 +17,7 @@ You’ll be able to choose from ten custom alarm tones.
 
 
 {{% image sleep-trends jpg oops %}}
-{{% youtube QlpzTM4euCQ %}}
+{{% vimeo 101139949 %}}
 
 Instruction
 {{% collapsible iPhone Android %}}
