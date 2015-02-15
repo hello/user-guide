@@ -13,4 +13,5 @@ weight: 4
 
 To dismiss the alarm, simply wave your hand over Sense.
 
-![Dismiss Alarm](/img/sense.jpg)
+{{% photo source="/img/sense.jpg" %}}
+
