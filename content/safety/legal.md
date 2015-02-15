@@ -80,7 +80,7 @@ The CE mark for the Sleep Pill is located inside the battery compartment on its 
 
 ### European Union Disposal and Recycling – Information for Users
 
-![Rubbish Bin](/img/WEEE-symbol-vectors.png)
+{{% photo source="/img/WEEE-symbol-vectors.png" %}}
 
 This symbol means your product should not be disposed of with your normal household waste. Instead, you should protect human health and the environment by handing over your waste equipment to a designated collection point for the recycling of waste electrical and electronic equipment. For more information about how to dispose of your Sense waste equipment, please contact your household waste disposal service.
 
