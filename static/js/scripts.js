@@ -115,33 +115,6 @@ function initializeJS() {
     }
     //adjust nav bars height
     $(".navigation").css("height", $('.panel-body').height());
-
-    $(".photo").each(function() {
-        var aspectRatio = $(this).width()/$(this).height();
-        $(this).data("aspect-ratio", aspectRatio);
-
-        if(aspectRatio > 1) {
-            $(this).css({
-                position: "relative",
-                left: "10%",
-                width: "80%",
-                height: "auto"
-            });
-        } else if (aspectRatio < 1) {
-            $(this).css({
-                position: "relative",
-                left: "10%",
-                width: "80%"
-            });
-        } else {
-            $(this).css({
-                position: "relative",
-                left: "10%",
-                width: "80%",
-                height: "auto"
-            });            
-        }
-    });
 }
 
 $(document).ready(function(){
