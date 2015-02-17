@@ -11,24 +11,24 @@ weight: 11
 ## Account Settings
 
 
-Open Sense App> Tap Settings icon> My Account
+- Open Sense App> Tap Settings icon> My Account
 
 
-Change email address.
+- **Change email address.**
 Open Sense App> Tap Settings icon> My Account> Email
 
 
-Change password.
+- **Change password.**
 Open Sense App> Tap Settings icon> My Account> Password
 
 
-Change your height.
+- **Change your height.**
 Open Sense App> Tap Settings icon> My Account> Height
 
 
-Change your weight.
+- **Change your weight.**
 Open Sense App> Tap Settings icon> My Account> Weight
 
 
-Delete your account.
+- **Delete your account.**
 Open Sense App> Tap Settings icon> My Account> Delete account
