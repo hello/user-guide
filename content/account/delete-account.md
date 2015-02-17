@@ -3,6 +3,7 @@ menu:
   main:
     parent: account
 prev: /account/your-data
+next: /third-party-apps/health-kit
 title: Delelting your Account
 weight: 5
 ---

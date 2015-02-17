@@ -3,6 +3,7 @@ menu:
   main:
     parent: sensors
 prev: /sensors/parts
+next: /account/email
 title: Motion
 weight: 5
 ---
