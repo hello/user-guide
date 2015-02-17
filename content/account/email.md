@@ -2,6 +2,7 @@
 menu:
   main:
     parent: account
+prev: /sensors/motion
 next: /account/password
 title: Changing Email Address
 weight: 1
