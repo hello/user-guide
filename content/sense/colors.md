@@ -10,7 +10,7 @@ weight: 3
 
 ## Colors
 
-### Understanding the colors of your bedroom.
+**Understanding the colors of your bedroom.**
 
 
 - Green means everything is good.
@@ -19,7 +19,8 @@ weight: 3
 
 - Orange means you should adjust something.
 
-### Understanding other Sense colors.
+
+**Understanding other Sense colors.**
 
 
 - Purple - Pairing mode
