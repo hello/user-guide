@@ -221,20 +221,6 @@ input,
 textarea {
   background-image: none;
 }
-a {
-  color: #ff4088;
-  text-decoration: none;
-}
-a:hover,
-a:focus {
-  color: #ff4088;
-  text-decoration: underline;
-}
-a:focus {
-  outline: thin dotted #333;
-  outline: 5px auto -webkit-focus-ring-color;
-  outline-offset: -2px;
-}
 img {
   vertical-align: middle;
 }
