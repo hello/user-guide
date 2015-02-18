@@ -10,12 +10,13 @@ weight: 5
 
 ## Battery Change
 
-### Battery Needed:
+**Battery Needed:**
 
 
 - Battery Coin cell CR2025 (Link to where you buy)
 
-### Instructions for replacing Sleep Pill:
+
+**Instructions for replacing Sleep Pill:**
 
 
 1. With the Hello logo faced up (facing you), pry up from the top edge and pop the cap off.

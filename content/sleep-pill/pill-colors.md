@@ -13,12 +13,12 @@ weight: 1
 Know the difference between you and your partners Sleep Pill.
 
 
-Shake the Sleep Pill near Sense
 
-Each pill gets assigned a color red/blue. Go to setting in app to know which color you have been assigned. 
-
-
-Flashing Blue
+Each pill gets assigned a color red or blue. 
 
 
-Flashing Red
+**Know which color you have been assigned.** Open Sense App> Tap Settings icon> Sense and Sleep Pill
+
+
+**Know which Sleep Pill is yours.** Shake your Sleep Pill near Sense, it will flash the color assigned to the Sleep Pill.
+
