@@ -11,4 +11,4 @@ weight: 3
 ## Reading your Sleep Timeline
 
 
-All your sleep data can be found in a clear timeline in your Sense app. You’re able to see all the events that occurred during your night’s sleep. Everything from snoring and movement, to light disturbances, is all recorded in one place. 
+Sense interprets the data from your sleep and your bedroom and gives you a detailed timeline of the events that occurred during that period. You’ll be able to see everything, from tossing and turning, to lights being switched on during the night. Sense uses a learning algorithm so that, with every sleep cycle that passes, it will gain a more comprehensive understanding of how you sleep. 

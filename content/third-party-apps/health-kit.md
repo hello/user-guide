@@ -2,6 +2,7 @@
 menu:
   main:
     parent: third party apps
+prev: /account/delete-account
 next: /third-party-apps/google-fit
 title: Health Kit
 weight: 1

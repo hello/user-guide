@@ -40,10 +40,10 @@ Now, you can pair your phone with Sense. Make sure you have your phone’s Bluet
 9. Then you’ll shake your Sleep Pill for three seconds. Sense will glow white when your Sleep Pill is connected.
 
 
-10.To attach your Sleep Pill hold the edge of your pillowcase taut, like this, and slide on your Sleep Pill. It’s a snug fit to make sure it doesn’t fall off.
+10. To attach your Sleep Pill hold the edge of your pillowcase taut, like this, and slide on your Sleep Pill. It’s a snug fit to make sure it doesn’t fall off.
 
 
-11.Last but not least, you can set your first Smart Alarm. 
+11. Last but not least, you can set your first Smart Alarm. 
 
 
 Now you’re all set up, and ready for a good night’s sleep.
