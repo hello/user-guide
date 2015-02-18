@@ -13,18 +13,20 @@
 
     /* body container */
     #main-content {
-        margin: 0 -16px 0 0 !important;
+        margin: 0 0 !important;
         position: none !important;
     }
 
     #sidebar > ul > li > a > span {
         line-height: 64px;
+        margin-right: 0px !important;
+        font-size: 18px;
     }
 
     #sidebar > ul > li > a {
         height: 64px;
         line-height: 64px;
-        padding: 0 24px;
+        padding: 0 16px;
         text-align: left;
     }
 
@@ -35,6 +37,7 @@
         background: transparent !important ;
         height: 64px;
         line-height: 64px;
+        font-size: 16px;
     }
 
     /* sidebar */
