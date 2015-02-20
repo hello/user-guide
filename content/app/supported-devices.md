@@ -15,9 +15,9 @@ To set-up Sense, you will first need to a smart phone that is compatible.
 
 - Moto G first gen
 
--Moto X first gen
+- Moto X first gen
 
--Samsung Galaxy S3 (AT&T)
+- Samsung Galaxy S3 (AT&T)
 
 - Samsung Galaxy S3 Neo
 
