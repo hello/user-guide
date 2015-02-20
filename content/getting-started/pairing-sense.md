@@ -16,14 +16,10 @@ Sense uses Bluetooth to communicate with your mobile device. Make sure your Blue
 2. Tap Bluetooth> Flip the switch to On
 3. Return to the Sense app
 
-Make sure Sense is  plugged in, nearby, and in [Pairing Mode.](http://staging-user.hello.is/troubleshoot/putting-sense-in-pairing-mode/)
-
-[Screenshot: Pairing with Sense]
+Make sure Sense is  plugged in, nearby, and glowing purple in [Pairing Mode.](http://staging-user.hello.is/troubleshoot/putting-sense-in-pairing-mode/)
 
 
 When ready, tap Continue. The app will prompt you to Pair with your Sense. 
-
-[Screenshot: Pairing Dialog]
 
 
 Press Pair to pair your phone with Sense.
