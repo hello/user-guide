@@ -5,7 +5,7 @@ menu:
 prev: /app/download
 next: /app/sleep-timeline
 title: current conditions
-weight: 2
+weight: 3
 ---
 
 ## Current Conditions

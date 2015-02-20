@@ -5,7 +5,7 @@ menu:
 prev: /app/sleep-trends
 next: /app/enhanced-audio
 title: sleep insights
-weight: 6
+weight: 7
 ---
 
 ## Sleep Insights

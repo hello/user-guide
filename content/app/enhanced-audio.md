@@ -5,7 +5,7 @@ menu:
 prev: /app/sleep-insights
 next: /app/alarms
 title: enhanced-audio
-weight: 7
+weight: 8
 ---
 
 ## Enhanced Audio

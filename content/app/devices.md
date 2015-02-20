@@ -5,7 +5,7 @@ menu:
 prev: /app/alarms
 next: /app/wifi
 title: devices
-weight: 9
+weight: 10
 ---
 
 ## Devices
