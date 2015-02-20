@@ -4,7 +4,6 @@ menu:
 	parent: app
 prev: /app/download
 next: /app/current-conditions
-
 title: Supported Devices
 weight: 2
 ---
