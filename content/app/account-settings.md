@@ -5,7 +5,7 @@ menu:
 prev: /app/wifi
 next: /sense/charging
 title: account settings
-weight: 11
+weight: 12
 ---
 
 ## Account Settings

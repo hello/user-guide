@@ -5,7 +5,7 @@ menu:
 prev: /app/sleep-timeline
 next: /app/sleep-trends
 title: navigating days
-weight: 4
+weight: 5
 ---
 
 ## Navigating Days

@@ -5,7 +5,7 @@ menu:
 prev: /app/current-conditions
 next: /app/navigating-days
 title: reading your sleep timeline
-weight: 3
+weight: 4
 ---
 
 ## Reading your Sleep Timeline

@@ -1,17 +1,29 @@
 ---
 menu:
   main:
-  
-title: Android Devices
-weight: 1
+	parent: app
+prev: /app/download
+next: /app/current-conditions
+
+title: Supported Devices
+weight: 2
 ---
 
-## Android Supported Devices
+## Supported Devices
 
 
 To set-up Sense, you will first need to a smart phone that is compatible.
 
-**Supported devices:**
+**iOS:**
+
+- iPhone 4S or newer
+
+- iPod Touch 5 or newer
+
+- iPad 3 or newer
+
+
+**Android:**
 
 - Moto G first gen
 

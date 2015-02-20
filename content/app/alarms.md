@@ -5,7 +5,7 @@ menu:
 prev: /app/enhanced-audio
 next: /app/devices
 title: alarms
-weight: 8
+weight: 9
 ---
 
 ## Alarms

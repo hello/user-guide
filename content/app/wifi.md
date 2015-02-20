@@ -5,7 +5,7 @@ menu:
 prev: /app/devices
 next: /app/account-settings
 title: wifi
-weight: 10
+weight: 11
 ---
 
 ## WiFi
