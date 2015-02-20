@@ -11,4 +11,4 @@ weight: 2
 
 ## Sleep Pill Overview
 
-Sense comes with a little device called a Sleep Pill. It simply attaches to your pillow and invisibly tracks your sleep at night. Sense knows when you're falling asleep, soundly asleep, thrashing about, or waking up. All this is possible with the highly sensitive accelerometer and gyroscope inside the Sleep Pill, which clips discretely, and securely, onto your pillow.
+Sense comes with a little device called a Sleep Pill. It discreetly attaches to your pillow and invisibly tracks your sleep at night. Sense knows when you're falling asleep, soundly asleep, thrashing about, or waking up. All this is possible with the highly sensitive accelerometer and gyroscope inside the Sleep Pill, which clips discretely, and securely, onto your pillow.

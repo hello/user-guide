@@ -25,5 +25,3 @@ What you’ll find inside:
 - Cable 
 
 
-[Instruction video on how to get started]
-

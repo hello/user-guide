@@ -13,7 +13,7 @@ Sense is a simple system that tracks your sleep, monitors the environment in you
 
 
 
-Sense sits on your bedside table and tracks the data of the environment in your bedroom, including noise, light, temperature, humidity and particles in the air. While the Sleep Pill clips onto your pillow and monitors how you sleep.
+Sense sits on your bedside table and tracks the data of the environment in your bedroom, including noise, light, temperature, humidity and particles in the air. Sleep Pill clips onto your pillow and monitors how you sleep.
 
 
 

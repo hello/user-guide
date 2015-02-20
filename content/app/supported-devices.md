@@ -1,7 +1,7 @@
 ---
 menu:
   main:
-	parent: app
+    parent: app
 prev: /app/download
 next: /app/current-conditions
 title: Supported Devices
