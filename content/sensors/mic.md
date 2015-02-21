@@ -12,5 +12,3 @@ weight: 1
 
 
 Sensitive Microphone to pick up on snoring, sleep talking and noise disturbances in the night.
-
-{{% vimeo}}
