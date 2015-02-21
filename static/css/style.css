@@ -453,3 +453,7 @@ details details summary {
     height: auto;
     margin-bottom: 20px;
 }
+
+.menu-icon {
+    display: none;
+}

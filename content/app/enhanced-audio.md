@@ -5,19 +5,16 @@ menu:
 prev: /app/sleep-insights
 next: /app/alarms
 title: enhanced-audio
-weight: 7
+weight: 8
 ---
 
 ## Enhanced Audio
 
 
-This will allow Sense to pick up snoring, sleep talking and other noise disturbances.
+Sense will detect background noises such as a car alarm going off or a siren outside. Enhanced Audio will track snoring, sleep talking and noise disturbances within close range and report them within your timeline to give you a complete view of your night. You can choose to activate Enhanced Audio on setup and within settings in the app.
 
 
-Without enhanced audio enabled, Sense only looks at background noise such as car alarms and sirens.
-
-
-**Turn on enhanced audio.**
+**Turn on enhanced audio:**
 
 
 Open Sense App> Tap Settings icon> My Account> Enhanced Audio> Switch on

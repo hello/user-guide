@@ -10,8 +10,7 @@ weight: 3
 
 ## Smart Alarm Overview
 
-Waking up should feel great. Sense's Smart Alarm is designed to wake you up in the most natural way possible, not like the alarm clock you're used to. Sense will wake you when you are in the lightest part of your sleep cycle within 30 minutes prior to the time you set. That way, you wake up at the right time for you.
+Sense’s Smart Alarm will wake you up at the lightest part of your natural sleep cycle, up to 30 minutes before your requested wake-up time, making sure you wake up refreshed and at the right time for you. 
 
 
-
-You’ll be able to choose from ten custom alarm tones.
+We have composed custom Wake Tones that play using the built-in speaker to provide the best sound possible to gently and gradually awaken you.
