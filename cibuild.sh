@@ -11,8 +11,8 @@ unzip awscli-bundle.zip
 
 #!/bin/bash
 if [ $TRAVIS_BRANCH == 'staging' ]; then
-	echo "Clear all existing content in s3 bucket"
-	/home/travis/bin/aws s3 rm s3://staging-user.hello.is/ --recursive
+	# echo "Clear all existing content in s3 bucket"
+	# /home/travis/bin/aws s3 rm s3://staging-user.hello.is/ --recursive
 	
 	echo
 	head -1 config.toml
