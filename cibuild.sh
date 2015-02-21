@@ -21,7 +21,7 @@ if [ $TRAVIS_BRANCH == 'staging' ]; then
 	echo "Invoke hugo to build /public and log"
 	./hugo-ci --logFile="hugo-log"
 
-	if [ grep -q ERROR "hugo-log" ] || [ grep -q CRITICAL "hugo-log" ]; then 
+	if grep -q ERROR "hugo-log" || grep -q CRITICAL "hugo-log"; then 
 		echo "\n Hugo has failed to generate content \n"
 	else
 		echo "copy 404 page to error page"
@@ -46,7 +46,7 @@ if [ $TRAVIS_BRANCH == 'master' ]; then
 	echo "Invoke hugo to build /public and log"
 	./hugo-ci --logFile="hugo-log"
 
-	if [ grep -q ERROR "hugo-log" ] || [ grep -q CRITICAL "hugo-log" ]; then 
+	if grep -q ERROR "hugo-log" || grep -q CRITICAL "hugo-log"; then 
 		echo "\n Hugo has failed to generate content \n"
 	else
 		echo "copy 404 page to error page"
