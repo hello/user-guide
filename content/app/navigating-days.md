@@ -11,7 +11,8 @@ weight: 5
 ## Navigating Days
 
 
-Swipe left or right on the timeline to navigate forward or back a day. Tap the date at the top to zoom out.
+Swipe left or right on the timeline to navigate forward or back a day. 
 
 
-{{% photo source="/img/sleep-trends.jpg" %}}
+Tap the date at the top to get a zoomed out view.
+

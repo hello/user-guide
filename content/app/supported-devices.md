@@ -11,7 +11,7 @@ weight: 2
 ## Supported Devices
 
 
-To set-up Sense, you will first need to a smart phone that is compatible.
+To set-up Sense, you will first need a smart phone that is compatible.
 
 **iOS:**
 
@@ -49,6 +49,3 @@ To set-up Sense, you will first need to a smart phone that is compatible.
 - HTC One M8 (Android Lollipop recommended)
 
 - Sony Z3V
-
-
-The app will guide you through the set-up process. The app is where all your sleep data is stored - you’ll be able to see your Timeline, Trends and Sleep Insights. You’ll also be able to set your Smart Alarm.
