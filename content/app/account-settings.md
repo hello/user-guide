@@ -3,7 +3,7 @@ menu:
   main:
     parent: app
 prev: /app/wifi
-next: /sense/charging
+next: /sense/proximity
 title: account settings
 weight: 12
 ---
@@ -11,29 +11,31 @@ weight: 12
 ## Account Settings
 
 
-- Open Sense App> Tap Settings icon> My Account
+To access your account settings:
+
+Open Sense App> Tap Settings icon> My Account
 
 
-- **Change email address:**
+**Change email address:**
 
 Open Sense App> Tap Settings icon> My Account> Email
 
 
-- **Change password:**
+**Change password:**
 
 Open Sense App> Tap Settings icon> My Account> Password
 
 
-- **Change your height:**
+**Change your height:**
 
 Open Sense App> Tap Settings icon> My Account> Height
 
 
-- **Change your weight:**
+**Change your weight:**
 
 Open Sense App> Tap Settings icon> My Account> Weight
 
 
-- **Delete your account:**
+**Delete your account:**
 
 Open Sense App> Tap Settings icon> My Account> Delete account
