@@ -19,7 +19,4 @@ Attach your Sleep Pill to the pillowcase you sleep on.
 Hold the edge of your pillowcase taut and slide on your Sleep Pill. It’s a snug fit to make sure it doesn’t fall off.
 
 
-{{% youtube Hg1e5AaR6g4 %}}
-
-
 [Having trouble?](http://staging-user.hello.is/troubleshoot/attaching-sleep-pill/)

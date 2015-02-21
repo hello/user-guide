@@ -11,8 +11,11 @@ weight: 6
 ## Maintaining your Sleep Pill
 
 
-Keep your Sleep Pill on your pillowcase. Remove before washing. 
+Keep your Sleep Pill on your pillowcase. You must remove before you wash your pillow case. 
 
 
-Use a soft, clean, lint-free cloth to clean Sense and Sleep Pill. Do not use liquids or abrasive solutions. 
+If you want to clean your Sleep Pill or your Sense use a soft, clean, lint-free cloth. 
+
+
+Do not use liquids or abrasive solutions on your Sleep Pill or your Sense. 
 
