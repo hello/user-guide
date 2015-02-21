@@ -18,7 +18,7 @@ You will need to have a 2.4GHz network for Sense to connect. At this time we do 
 
 
 
-**Change your WiFi network.**
+**Change your WiFi network:**
 
 Open Sense App> Tap Settings icon> ‘Sense and Sleep Pill> ‘Sense’> Edit WiFi> Select your Wifi network > Enter WiFi network password
 
