@@ -23,9 +23,9 @@ weight: 3
 **Understanding other Sense colors.**
 
 
-- Purple - Pairing mode
+- Purple - Pairing mode.
 
-- Spinning Yellow - Unsupported power adapter 
+- Spinning Yellow - Unsupported power adapter. 
 
-- Spinning Red - No internet connection
+- Spinning Red - No internet connection.
 
