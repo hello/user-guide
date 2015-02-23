@@ -5,7 +5,19 @@ weight: 1
 
 ## Pairing With Sense Over BLE
 
-Make sure sense is glowing purple: if not, hold your hand directly on top of Sense for 7 seconds, then remove. Sense should glow purple to indicate it's in Pairing Mode. 
+First, make sure Sense is glowing purple to indicate that it is in Pairing Mode, and ready to pair with your mobile device. If Sense is not glowing purple, see Putting Sense into Pairing Mode.
+
+Tap Continue, and the app will scan for your Sense, and then prompt you to pair. Press ‘Pair’ on the dialog to pair with your Sense. 
+
+If you’re having trouble pairing with Sense over BLE:
+
+- Make sure Sense is plugged into power and in [Pairing Mode](http://guide.hello.is/troubleshoot/pairing-mode/)
+
+- Make sure you’re within Bluetooth range of Sense (about 25 feet) [??]
+
+- Make sure that no other devices are actively connected with Sense over Bluetooth. If your partner is setting up Sense for the first time, wait for them to finish before starting your setup.
+
+- iOS: If your mobile device has been previously paired with Sense, or if you’ve been able to partially pair with Sense but have been unable to finish the pairing process, you may need to ‘Forget’ Sense in your device’s Bluetooth settings before proceeding. Navigate to Settings > Bluetooth, select Sense from the list, and then tap ‘Forget this Device.’ Then return to the Sense app and try again. [Screenshot: ‘Forget this Device’]
 
 
-If pairing fails, make sure: you're within Bluetooth range (x feet), your device's Bluetooth is on, sense is plugged in and in Pairing Mode (glowing purple), no one else is connected to Sense over Bluetooth. If pairing continues to fail: ______ (power cycle? check/forget devices in BLE settings? kill app? -- need to check with HW/SW).
+If you’re still unable to pair over Bluetooth, try power cycling Sense by unplugging, waiting 5 seconds, and then replugging Sense into power. Then try again. If you need additional help, contact support.
