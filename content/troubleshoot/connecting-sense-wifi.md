@@ -26,4 +26,4 @@ If you’re having trouble connecting Sense to WiFi:
 - Make sure you entered your wireless network password correctly
 
 
-If you’re still unable to connect Sense to WiFi, try power cycling Sense by unplugging, waiting 5 seconds, and then replugging Sense into power. Then try again. You can also try power cycling your wireless router. If you need additional help, contact support.
+If you’re still unable to connect Sense to WiFi, try unplugging Sense, waiting 5 seconds, and then replugging Sense into power. Then try again. You can also try conntecting and disconnecting your wireless router. If you need additional help, [contact support.](https://support.hello.is/hc/en-us/requests/new)
