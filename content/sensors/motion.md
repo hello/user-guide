@@ -11,4 +11,4 @@ weight: 5
 ## Motion
 
 
-Our Motion sensor has 6-axis accelerometer and gyroscope, capable of picking up the tiniest of your movements throughout the night.
+Our Motion sensor has a 6-axis accelerometer and gyroscope, capable of picking up the tiniest of your movements throughout the night.

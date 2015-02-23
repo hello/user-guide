@@ -11,4 +11,4 @@ weight: 2
 ## Sleep Pill
 
 
-Sleep Pill can be a choking hazard for small children. 
+Sleep Pill can be a choking hazard, please keep away from small children. 
