@@ -1,20 +1,15 @@
 ---
-title: Repairing with Sense over BLE
+title: Re-pairing Your Mobile Device with Sense over BLE
 weight: 1
 ---
 
-## Repairing with Sense over BLE
-
-It's possible that the Bluetooth connection between Sense and your device has been lost.
+## Re-pairing Your Mobile Device with Sense over BLE
 
 
- You'll need to re-pair with your Sense over BLE to preform certain operations. 
+It's possible that the Bluetooth connection between Sense and your mobile device has been lost. You'll need to re-pair with your Sense over BLE to perform certain operations. To do so: 
 
-To do so: 
-1. Put Sense into Pairing mode by placing your hand directly on top of Sense for 7 seconds, then removing it. Sense will glow Purple when it's in Pairing Mode. 
+- Put Sense into Pairing Mode by placing your hand directly on top of Sense for seven seconds, and then removing it. Sense will glow purple when it is in Pairing Mode.
 
-2. On iOS only) navigate to your device's Bluetooth settings and "Forget" Sense (show screenshots)
+- iOS only: Navigate to Settings > Bluetooth, select Sense from the list, and then tap ‘Forget this Device.’
 
-3. Navigate back to the 'Devices' menu inside the Sense app 
-
-4. After a few seconds, you should see a prompt to pair with Sense over BLE (show screenshots)
+- Launch the Sense app, and navigate to Settings > Sense and Sleep Pill. After a few seconds, you should see a prompt to pair with Sense over BLE. Tap ‘Pair’ to re-establish a Bluetooth connection with Sense.
