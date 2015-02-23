@@ -11,7 +11,7 @@ Sense communicates with your mobile device using BLE (Bluetooth Low Energy). Tur
 
 
 
-Note: Bluetooth pairing is set up from within the Sense app -- not your device’s Bluetooth settings. Do not attempt to connect with Sense from inside of Settings.
+*Note: Bluetooth pairing is set up from within the Sense app -- not your device’s Bluetooth settings. Do not attempt to connect with Sense from inside of Settings.*
 
 
 Android:
