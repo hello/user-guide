@@ -1,21 +1,19 @@
 ---
-title: Sense Not Seen In Days
+title: Sense Not Seen Recently
 weight: 1
 ---
 
-## Sense Not Seen In Days
-
-Sense seems to have stopped communicating with our servers. 
+## Sense Not Seen Recently
 
 
-Please make sure: 
+Your Sense seems to have stopped communicating with our servers. You can see the last time Sense was able to upload data by launching the Sense application, and navigating to Settings > Sense and Sleep Pill. In order to make sure that Sense is able to continue uploading your data:
 
+- Make sure that your Sense is plugged in and connected to power
 
-1. Your Sense is plugged in
-2. Your Sense is within WiFi range
-3. That your network has an internet connection. 
+- Make sure that your Sense is within range of your WiFi network
 
-Try the following: 
+- Make sure that your WiFi network has an internet connection
 
+- Make sure that your Sense is connected to the correct WiFi network by launching the Sense app, and navigating to Settings > Sense and Sleep Pill. You will see the currently connected WiFi network listed under the Sense menu. Inside the Sense menu, tap ‘Edit WiFi’ to change the currently connected WiFi network.
 
-Using the Sense app, go to Settings -> Devices and confirm that your Sense is connected to your WiFi network. If you don't see your WiFi network listed, tap into the Sense menu and select 'Edit WiFi' to attempt to reconnect to WiFi. (screenshots)
+If Sense is still unable to upload data, try power cycling Sense by unplugging, waiting 5 seconds, and then replugging Sense into power. Then try again. You can also try power cycling your wireless router. If you need additional help, contact support.
