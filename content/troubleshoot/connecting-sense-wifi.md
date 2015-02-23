@@ -5,13 +5,25 @@ weight: 1
 
 ## Connecting Sense to WiFi
 
-1. Ensure you are within range of your WiFi network
-2. Ensure you have an internet connection
-3. Ensure your router is 2.4ghz (sense does not support 5ghz networks) 
-4. Ensure your password is entered correctly 
+
+Sense connects to the internet over WiFi. To connect Sense to WiFi, select your network from the list. If you don’t see your network listed, tap ‘Rescan.’ If your wireless network is “hidden,” tap ‘Other’ at the bottom of the network list, and you’ll be prompted to manually enter your SSID and password.
+
+Next, enter your wireless network’s password, and tap Continue. 
 
 
+If you’re having trouble connecting Sense to WiFi:
 
-If you don't see your network? 
+- Make sure Sense is within range of your wireless network
 
-If continues to fail: ______ (power cycle router? power cycle? -- need to check with HW/SW)
+- Make sure you have a 2.4 GHz network (Sense does not currently support 5 GHz wireless networks)
+
+- Make sure your wireless network has an internet connection
+
+- Make sure your mobile device is within Bluetooth range of Sense (about 25 feet)
+
+- Make sure your mobile device has an internet connection 
+
+- Make sure you entered your wireless network password correctly
+
+
+If you’re still unable to connect Sense to WiFi, try power cycling Sense by unplugging, waiting 5 seconds, and then replugging Sense into power. Then try again. You can also try power cycling your wireless router. If you need additional help, contact support.
