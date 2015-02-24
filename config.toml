@@ -33,7 +33,7 @@ MetaDataFormat = "yaml"
     weight = 6
 
 [[menu.main]]
-    name = "alarm"
+    name = "smart-alarm"
     pre = "<i class='menu-icon fa fa-bell-o'></i>"
     weight = 7
    
