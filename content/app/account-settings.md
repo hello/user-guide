@@ -11,7 +11,7 @@ weight: 12
 ## Account Settings
 
 
-To access your account settings:
+**To access your account settings:**
 
 Open Sense App> Tap Settings icon> My Account
 

@@ -4,7 +4,7 @@ menu:
     parent: getting started
 prev: /getting-started/setup
 next: /getting-started/pairing-sense
-title: user info
+title: user information
 weight: 3
 ---
 

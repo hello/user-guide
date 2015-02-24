@@ -3,7 +3,7 @@ menu:
   main:
     parent: sensors
 prev: /sensors/light   
-next: /sensors/parts
+next: /sensors/motion
 title: Tempurature and Humidity
 weight: 3
 ---

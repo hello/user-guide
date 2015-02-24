@@ -13,7 +13,7 @@ weight: 5
 **Battery Needed:**
 
 
-- Battery Coin cell CR2025 (Link to where you buy)
+- Battery Coin cell CR2025
 
 
 **Instructions for replacing your Sleep Pill battery:**
@@ -29,5 +29,3 @@ weight: 5
 
 5. Once the battery is in, shake it a few times near the Sense and it should be active. You will not have to re-sync.
 
-
-[Video/Picture]
