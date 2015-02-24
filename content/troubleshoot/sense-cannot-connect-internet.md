@@ -8,6 +8,7 @@ weight: 1
 
 Your Sense is unable to connect to the internet. To fix this problem:
 
+
 - Make sure that your Sense is within range of your WiFi network
 
 - Make sure that your WiFi network has an internet connection
