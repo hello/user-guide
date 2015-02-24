@@ -14,4 +14,4 @@ Sense glows purple to indicate that it is in Pairing Mode and ready to be paired
 - If your partner’s mobile device is already connected to Sense, they can put Sense into Pairing Mode using the Sense app. Have them launch the Sense app, then navigate to Settings > Sense and Sleep Pill > Sense, and then tap ‘Put Sense into Pairing Mode.’ Sense will glow purple to indicate that it is in Pairing Mode.
 
 
-Pairing Mode will automatically turn off when a device is successfully paired. To turn Pairing Mode off manually, just place your hand directly on top of Sense for two seconds, and then remove it. 
+Pairing Mode will automatically turn off when a device is successfully connected over Bluetooth. To turn Pairing Mode off manually, just place your hand directly on top of Sense for two seconds, and then remove it. 
