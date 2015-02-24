@@ -56,6 +56,6 @@ if [ $TRAVIS_BRANCH == 'master' ]; then
 
 		echo "run awscli s3 command to upload /public to master bucket to have it published"
 		echo "Uploading to master s3"
-		/home/travis/bin/aws s3 cp public/ s3://staging-user.hello.is/ --recursive
+		/home/travis/bin/aws s3 cp public/ s3://guide.hello.is/ --recursive
 	fi
 fi
