@@ -48,11 +48,6 @@ MetaDataFormat = "yaml"
     weight = 9
 
 [[menu.main]]
-    name = "third party apps"
-    pre = "<i class='menu-icon fa fa-adn'></i>"
-    weight = 10
-
-[[menu.main]]
     name = "safety"
     pre = "<i class='menu-icon fa fa-medkit'></i>"
     weight = 11
