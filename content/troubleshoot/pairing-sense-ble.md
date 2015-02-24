@@ -28,4 +28,4 @@ If you’re having trouble pairing with Sense over BLE:
 Navigate to Settings > Bluetooth, select Sense from the list, and then tap ‘Forget this Device.’ Then return to the Sense app and try again.
 
 
-If you’re still unable to connect Sense to WiFi, try unplugging Sense, waiting 5 seconds, and then replugging Sense into power. Then try again. If you need additional help, please [contact support.](https://support.hello.is/hc/en-us/requests/new)
+If you’re still unable to connect Sense to Bluetooth, try unplugging Sense, waiting 5 seconds, and then replugging Sense into power. Then try again. If you need additional help, please [contact support.](https://support.hello.is/hc/en-us/requests/new)

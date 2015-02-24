@@ -6,7 +6,7 @@ weight: 1
 ## Sense Not Seen Recently
 
 
-Your Sense seems to have stopped communicating with our servers. You can see the last time Sense was able to upload data by launching the Sense application, and navigating to Settings > Sense and Sleep Pill. In order to make sure that Sense is able to continue uploading your data:
+Your Sense seems to have stopped communicating with our servers. You can see the last time Sense was able to upload data by launching the Sense application, and navigating to Settings > Sense and Sleep Pill. Sense should normally not go more than a day without uploading data. In order to make sure that Sense is able to continue uploading your data:
 
 - Make sure that your Sense is plugged in and connected to power
 
