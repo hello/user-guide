@@ -1,7 +1,7 @@
 ---
 menu:
   main:
-    parent: smart-alarm
+    parent: smart alarm
 prev: /smart-alarm/multiple-alarms
 next: /smart-alarm/alarms-two-people
 title: dismissing your alarm

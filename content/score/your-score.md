@@ -3,7 +3,7 @@ menu:
   main:
     parent: sleep score
 prev: /sleep-pill/maintain-pill
-next: /score/sharing
+next: /smart-alarm/smart-alarm
 title: your sleep score
 weight: 1
 ---

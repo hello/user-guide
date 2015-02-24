@@ -1,7 +1,7 @@
 ---
 menu:
   main:
-    parent: smart-alarm
+    parent: smart alarm
 prev: /score/sharing
 next: /smart-alarm/setting-alarm
 title: what is the smart alarm

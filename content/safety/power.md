@@ -3,7 +3,7 @@ menu:
   main:
     parent: safety
 next: /safety/pill-safety
-prev: /third-party-apps/google-fit
+prev: /account/your-data
 title: Powering Sense
 weight: 1
 ---

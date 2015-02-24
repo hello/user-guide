@@ -1,7 +1,7 @@
 ---
 menu:
   main:
-    parent: smart-alarm
+    parent: smart alarm
 prev: /smart-alarm/smart-alarm
 next: /smart-alarm/multiple-alarms
 title: setting your smart alarm

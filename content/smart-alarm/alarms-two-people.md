@@ -1,7 +1,7 @@
 ---
 menu:
   main:
-    parent: smart-alarm
+    parent: smart alarm
 prev: /smart-alarm/dismissing-alarm
 next: /sensors/mic
 title: alarms with two people

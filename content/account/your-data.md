@@ -3,7 +3,7 @@ menu:
   main:
     parent: account
 prev: /account/height-weight
-next: /account/delete-account
+next: /safety/power
 title: Your Data
 weight: 4
 ---

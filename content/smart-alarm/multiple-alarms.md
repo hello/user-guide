@@ -1,7 +1,7 @@
 ---
 menu:
   main:
-    parent: smart-alarm
+    parent: smart alarm
 prev: /smart-alarm/setting-alarm
 next: /smart-alarm/dismissing-alarm
 title: multiple alarms
