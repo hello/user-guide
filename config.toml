@@ -4,55 +4,55 @@ MetaDataFormat = "yaml"
 
 [[menu.main]]
     name = "system"
-    pre = "<i class='fa fa-cogs'></i>"
+    pre = "<i class='menu-icon fa fa-cogs'></i>"
     weight = 1
 
 [[menu.main]]
     name = "getting started"
-    pre = "<i class='fa fa-road'></i>"
+    pre = "<i class='menu-icon fa fa-road'></i>"
     weight = 2
-  
+
 [[menu.main]]
     name = "app"
-    pre = "<i class='fa fa-mobile'></i>"
+    pre = "<i class='menu-icon fa fa-mobile'></i>"
     weight = 3
 
 [[menu.main]]
     name = "sense"
-    pre = "<i class='fa fa-bullseye'></i>"
+    pre = "<i class='menu-icon fa fa-bullseye'></i>"
     weight = 4
 
 [[menu.main]]
     name = "sleep pill"
-    pre = "<i class='fa fa-bomb'></i>"
+    pre = "<i class='menu-icon fa fa-bomb'></i>"
     weight = 5
 
 [[menu.main]]
     name = "sleep score"
-    pre = "<i class='fa fa-bar-chart-o'></i>"
+    pre = "<i class='menu-icon fa fa-bar-chart-o'></i>"
     weight = 6
 
 [[menu.main]]
-    name = "alarm"
-    pre = "<i class='fa fa-bell-o'></i>"
+    name = "smart alarm"
+    pre = "<i class='menu-icon fa fa-bell-o'></i>"
     weight = 7
-   
+
 [[menu.main]]
     name = "sensors"
-    pre = "<i class='fa fa-magnet'></i>"
-    weight = 8 
-    
+    pre = "<i class='menu-icon fa fa-magnet'></i>"
+    weight = 8
+
 [[menu.main]]
     name = "account"
-    pre = "<i class='fa fa-user'></i>"
+    pre = "<i class='menu-icon fa fa-user'></i>"
     weight = 9
 
 [[menu.main]]
     name = "third party apps"
-    pre = "<i class='fa fa-adn'></i>"
+    pre = "<i class='menu-icon fa fa-adn'></i>"
     weight = 10
 
 [[menu.main]]
     name = "safety"
-    pre = "<i class='fa fa-medkit'></i>"
+    pre = "<i class='menu-icon fa fa-medkit'></i>"
     weight = 11

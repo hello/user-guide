@@ -44,7 +44,7 @@ a, a:hover, a:focus {
 }
 
 .panel-body {
-    text-align: justify;
+    /*text-align: justify;*/
     min-height: 100vh;
 }
 
@@ -452,4 +452,8 @@ details details summary {
     width: 70%;
     height: auto;
     margin-bottom: 20px;
+}
+
+.menu-icon {
+    display: none;
 }
