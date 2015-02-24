@@ -2,7 +2,7 @@
 menu:
   main:
     parent: app
-prev: /app/download
+prev: /app/supported-devices
 next: /app/sleep-timeline
 title: current conditions
 weight: 3

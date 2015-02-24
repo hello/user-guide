@@ -3,7 +3,7 @@ menu:
   main:
     parent: app
 prev: /getting-started/pairing-second-sleep-pill
-next: /app/current-conditions
+next: /app/supported-devices
 title: get the app
 weight: 1
 ---
@@ -13,7 +13,7 @@ weight: 1
 
 To set-up Sense, you will first need to download the Sense app which you can find at:
 
-- [Senseapp.com](hello.is)
+- [Senseapp.com](https://hello.is)
 
 - [Play Store](https://play.google.com/store)
 

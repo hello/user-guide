@@ -2,7 +2,7 @@
 menu:
   main:
     parent: alarm
-prev: /score/sharing
+prev: /score/your-score
 next: /alarm/setting-alarm
 title: what is the smart alarm
 weight: 1
