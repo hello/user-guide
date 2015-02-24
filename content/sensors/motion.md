@@ -2,7 +2,7 @@
 menu:
   main:
     parent: sensors
-prev: /sensors/parts
+prev: /sensors/temp-humidity
 next: /account/email
 title: Motion
 weight: 5
