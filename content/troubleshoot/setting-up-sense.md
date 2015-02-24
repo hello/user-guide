@@ -5,7 +5,5 @@ weight: 1
 
 ## Setting Up Sense
 
-plugging in: plugging in sense, wall adapter, etc. physical placement: in bedroom, on nightstand, within reach, near outlet, in wifi range, etc 
 
-
--- might be okay to link to existing page for this... 
+Connect Sense to power using the provided cord and adapter. The large end of the cord goes into the USB power adapter that connects to your wall, and the small end plugs into your Sense. Place Sense on a nightstand or bedside table so that it’s within reach from where you sleep. Sense also needs to be in a location with a WiFi signal. If there’s not an outlet close enough, you can use an AC extension cord to reach closer to your bed. 

@@ -10,13 +10,13 @@ weight: 3
 
 ## Change Height and Weight
 
-**Change your height.**
+**Change your height:**
 
 
 Open Sense App> Tap Settings icon> My Account> Height	
 
 
-**Change your weight.**
+**Change your weight:**
 
 
 Open Sense App> Tap Settings icon> My Account> Weight

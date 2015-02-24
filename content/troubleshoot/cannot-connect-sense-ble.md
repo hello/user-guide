@@ -5,16 +5,22 @@ weight: 1
 
 ## Cannot Connect to Sense over BLE
 
-Your mobile device is having trouble establishing a BLE connection with your Sense. Please ensure that your Sense is plugged in, and nearby (x feet), and try again by navigating back to the devices list. 
+
+Your mobile device uses BLE to communicate with Sense for certain operations. Your mobile device is currently having trouble establishing a connection with Sense over BLE. To fix this problem:
+
+- Make sure your mobile device has Bluetooth turned on
+
+- Make sure Sense is plugged in and connected to power
+
+- Make sure you are within Bluetooth range of Sense (about 15 feet)
+
+- Make sure no other devices are actively connected with Sense over Bluetooth
 
 
-If you have never connected with Sense over BLE on this device before, you will need to Pair with Sense. 
+If your mobile device has never been previously paired with Sense over Bluetooth (e.g. you replaced your mobile device since setting up Sense), you will need to pair to perform certain operations. To do so:  
 
-To do this:
+- Put Sense into [Pairing Mode](http://guide.hello.is/troubleshoot/pairing-mode/) by placing your hand directly on top of Sense for seven seconds, and then removing it. Sense will glow purple when it is in Pairing Mode.
 
+- Launch the Sense app, and navigate to Settings > Sense and Sleep Pill. After a few seconds, you should see a prompt to pair with Sense over BLE. Tap ‘Pair’ to establish a Bluetooth connection with Sense.
 
-1. Put Sense into Pairing mode (inlcude/link instructions). 
-2. Then navigate back to the Device list -- you should see a prompt to Pair with Sense. 
-
-
-If you still cannot connect with Sense, it's possible you need to [Re-Pair with Sense over BLE]
+If you are still having trouble connecting with Sense over BLE, and have been able to connect in the past, it’s possible you need to [Re-Pair Your Mobile Device with Sense over BLE.](http://guide.hello.is/troubleshoot/repairing-sense-ble/)

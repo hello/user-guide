@@ -3,7 +3,7 @@ menu:
   main:
     parent: sleep score
 prev: /sleep-pill/maintain-pill
-next: /score/sharing
+next: /smart-alarm/smart-alarm
 title: your sleep score
 weight: 1
 ---
@@ -11,7 +11,4 @@ weight: 1
 ## Your Sleep Score
 
 
-Each night Sense calculates your Sleep Score. This score takes into account all of the sensor data and variables that Sense monitors to generate a score out of 100 for your previous night.
-
-
-It looks at both the environment of your bedroom, such as disturbances during the night or whether your room was too bright for an ideal night’s rest, as well as how you actually slept yourself.
+Every morning you will receive a unique Sleep Score out of 100. This is calculated based on all the sensor data from your bedroom, as well as how you actually slept. Your Sleep Score allows you to see the quality of your previous night’s sleep at a glance. You’ll also be able to view your Sleep Score on a weekly basis, allowing you to easily track your progress over time.

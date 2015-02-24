@@ -11,7 +11,7 @@ MetaDataFormat = "yaml"
     name = "getting started"
     pre = "<i class='menu-icon fa fa-road'></i>"
     weight = 2
-  
+
 [[menu.main]]
     name = "app"
     pre = "<i class='menu-icon fa fa-mobile'></i>"
@@ -33,24 +33,19 @@ MetaDataFormat = "yaml"
     weight = 6
 
 [[menu.main]]
-    name = "alarm"
+    name = "smart alarm"
     pre = "<i class='menu-icon fa fa-bell-o'></i>"
     weight = 7
-   
+
 [[menu.main]]
     name = "sensors"
     pre = "<i class='menu-icon fa fa-magnet'></i>"
-    weight = 8 
-    
+    weight = 8
+
 [[menu.main]]
     name = "account"
     pre = "<i class='menu-icon fa fa-user'></i>"
     weight = 9
-
-[[menu.main]]
-    name = "third party apps"
-    pre = "<i class='menu-icon fa fa-adn'></i>"
-    weight = 10
 
 [[menu.main]]
     name = "safety"
