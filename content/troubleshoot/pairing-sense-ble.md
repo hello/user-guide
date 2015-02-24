@@ -11,11 +11,13 @@ First, make sure Sense is glowing purple to indicate that it is in Pairing Mode,
 
 Tap Continue, and the app will scan for your Sense, and then prompt you to pair. Press ‘Pair’ on the dialog to pair with your Sense. 
 
+*Note: Bluetooth pairing is set up from within the Sense app -- not your device’s Bluetooth settings. Do not attempt to connect with Sense from inside of your device’s Settings.*
+
 If you’re having trouble pairing with Sense over BLE:
 
 - Make sure Sense is plugged into power and in [Pairing Mode](http://guide.hello.is/troubleshoot/pairing-mode/)
 
-- Make sure you’re within Bluetooth range of Sense (about 25 feet)
+- Make sure you’re within Bluetooth range of Sense (about 15 feet)
 
 - Make sure no other devices are actively connected with Sense over Bluetooth. If your partner is setting up Sense for the first time, wait for them to finish before starting your setup.
 
@@ -26,4 +28,4 @@ If you’re having trouble pairing with Sense over BLE:
 Navigate to Settings > Bluetooth, select Sense from the list, and then tap ‘Forget this Device.’ Then return to the Sense app and try again.
 
 
-If you’re still unable to pair over Bluetooth, try power cycling Sense by unplugging, waiting 5 seconds, and then replugging Sense into power. Then try again. If you need additional help, contact [support.](https://support.hello.is/hc/en-us/requests/new)
+If you’re still unable to connect Sense to WiFi, try unplugging Sense, waiting 5 seconds, and then replugging Sense into power. Then try again. If you need additional help, please [contact support.](https://support.hello.is/hc/en-us/requests/new)

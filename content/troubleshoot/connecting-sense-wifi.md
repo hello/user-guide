@@ -6,9 +6,9 @@ weight: 1
 ## Connecting Sense to WiFi
 
 
-Sense connects to the internet over WiFi. To connect Sense to WiFi, select your network from the list. If you don’t see your network listed, tap ‘Rescan.’ If your wireless network is “hidden,” tap ‘Other’ at the bottom of the network list, and you’ll be prompted to manually enter your SSID and password.
+Sense connects to the internet over WiFi. To connect Sense to WiFi, select your network from the list. If you don’t see your network listed, tap ‘Rescan.’ 
 
-Next, enter your wireless network’s password, and tap Continue. 
+*Note: If your wireless network is “hidden,” tap ‘Other’ at the bottom of the network list. You’ll be prompted to manually enter your SSID and password. If your WiFi network has no password, you can leave the password field blank and set the security type to ‘Open.’*
 
 
 If you’re having trouble connecting Sense to WiFi:
@@ -26,4 +26,4 @@ If you’re having trouble connecting Sense to WiFi:
 - Make sure you entered your wireless network password correctly
 
 
-If you’re still unable to connect Sense to WiFi, try unplugging Sense, waiting 5 seconds, and then replugging Sense into power. Then try again. You can also try conntecting and disconnecting your wireless router. If you need additional help, [contact support.](https://support.hello.is/hc/en-us/requests/new)
+If you’re still unable to connect Sense to WiFi, try unplugging Sense, waiting 5 seconds, and then replugging Sense into power. Then try again. You can also try conntecting and disconnecting your wireless router. If you need additional help, please [contact support.](https://support.hello.is/hc/en-us/requests/new)

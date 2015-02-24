@@ -12,7 +12,7 @@ Your mobile device uses BLE to communicate with Sense for certain operations. Yo
 
 - Make sure Sense is plugged in and connected to power
 
-- Make sure you are within Bluetooth range of Sense (about 25 feet)
+- Make sure you are within Bluetooth range of Sense (about 15 feet)
 
 - Make sure no other devices are actively connected with Sense over Bluetooth
 
