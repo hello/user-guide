@@ -6,7 +6,7 @@ weight: 1
 ## Re-pairing Your Mobile Device with Sense over BLE
 
 
-It's possible that the Bluetooth connection between Sense and your mobile device has been lost. You'll need to re-pair with your Sense over BLE to perform certain operations. To do so: 
+It's possible that the Bluetooth connection between Sense and your mobile device has been lost. This can happen if Sense is restored to factory settings, or if it has been paired with several other new mobile devices. You'll need to re-pair with your Sense over BLE to perform certain operations. To do so:  
 
 - Put Sense into [Pairing Mode](http://guide.hello.is/troubleshoot/pairing-mode/) by placing your hand directly on top of Sense for seven seconds, and then removing it. Sense will glow purple when it is in Pairing Mode.
 
