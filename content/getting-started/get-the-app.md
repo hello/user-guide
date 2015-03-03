@@ -12,11 +12,10 @@ weight: 1
 
 To set-up Sense, you will first need to download the Sense app which you can find at:
 
-- [Senseapp.com](https://hello.is)
 
-- [Play Store](https://play.google.com/store)
+- [Play Store](https://play.google.com/store/apps/details?id=is.hello.sense&hl=en)
 
-- [App Store](https://itunes.apple.com/us/genre/ios/id36?mt=8)
+- [App Store](https://www.appstore.com/sense)
 
 
 
