@@ -15,7 +15,7 @@ To set-up Sense, you will first need to download the Sense app which you can fin
 
 - [Play Store](https://play.google.com/store/apps/details?id=is.hello.sense&hl=en)
 
-- [App Store](https://www.appstore.com/sense)
+- [App Store](https://search.itunes.apple.com/WebObjects/MZContentLink.woa/wa/link?mt=8&path=apps%2fsense)
 
 
 
