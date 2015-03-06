@@ -4,7 +4,7 @@ menu:
     parent: app
 prev: /app/sleep-timeline
 next: /app/sleep-trends
-title: navigating days
+title: Navigating Days
 weight: 5
 ---
 

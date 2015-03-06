@@ -4,7 +4,7 @@ menu:
     parent: app
 prev: /app/sleep-trends
 next: /app/enhanced-audio
-title: sleep insights
+title: Sleep Insights
 weight: 7
 ---
 
