@@ -4,7 +4,7 @@ menu:
     parent: system
 prev: /system/app-overview
 next: /getting-started/get-the-app
-title: accessories
+title: Accessories
 weight: 5
 ---
 
