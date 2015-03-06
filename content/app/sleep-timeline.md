@@ -4,7 +4,7 @@ menu:
     parent: app
 prev: /app/current-conditions
 next: /app/navigating-days
-title: reading your sleep timeline
+title: Reading your Sleep Timeline
 weight: 4
 ---
 

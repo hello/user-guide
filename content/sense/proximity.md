@@ -4,7 +4,7 @@ menu:
     parent: sense
 prev: /app/acount-settings
 next: /sense/gestures
-title: proximity
+title: Proximity
 weight: 1
 ---
 

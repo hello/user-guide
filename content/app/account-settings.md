@@ -4,7 +4,7 @@ menu:
     parent: app
 prev: /app/wifi
 next: /sense/proximity
-title: account settings
+title: Account Settings
 weight: 12
 ---
 

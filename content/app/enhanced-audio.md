@@ -4,7 +4,7 @@ menu:
     parent: app
 prev: /app/sleep-insights
 next: /app/alarms
-title: enhanced audio
+title: Enhanced Audio
 weight: 8
 ---
 

@@ -4,7 +4,7 @@ menu:
     parent: app
 prev: /app/devices
 next: /app/account-settings
-title: wifi
+title: Wifi
 weight: 11
 ---
 

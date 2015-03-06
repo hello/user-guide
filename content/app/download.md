@@ -4,7 +4,7 @@ menu:
     parent: app
 prev: /getting-started/pairing-second-sleep-pill
 next: /app/supported-devices
-title: get the app
+title: Where to get the app
 weight: 1
 ---
 
