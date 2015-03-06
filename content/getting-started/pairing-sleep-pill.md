@@ -4,7 +4,7 @@ menu:
     parent: getting started
 prev: /getting-started/connect-wifi
 next: /getting-started/clip-sleep-pill
-title: pairing your sleep pill
+title: Pairing your Sleep Pill
 weight: 6
 ---
 

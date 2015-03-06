@@ -4,7 +4,7 @@ menu:
     parent: getting started
 prev: /system/accessories-overview
 next: /getting-started/setup
-title: where to get the app
+title: Where to get the app
 weight: 1
 ---
 

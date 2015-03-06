@@ -4,7 +4,7 @@ menu:
     parent: getting started
 prev: /getting-started/user-info
 next: /getting-started/connect-wifi
-title: pairing via bluetooth
+title: Pairing Sense via Bluetooth
 weight: 4
 ---
 

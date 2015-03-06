@@ -4,7 +4,7 @@ menu:
     parent: getting started
 prev: /getting-started/get-the-app
 next: /getting-started/user-info
-title: setup sense overview
+title: Setup Sense Overview
 weight: 2
 ---
 
