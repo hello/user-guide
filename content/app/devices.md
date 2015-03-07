@@ -4,7 +4,7 @@ menu:
     parent: app
 prev: /app/alarms
 next: /app/wifi
-title: devices
+title: Devices
 weight: 10
 ---
 

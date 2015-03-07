@@ -4,7 +4,7 @@ menu:
     parent: smart alarm
 prev: /score/sharing
 next: /smart-alarm/setting-alarm
-title: what is the smart alarm
+title: What is the Smart Alarm
 weight: 1
 ---
 

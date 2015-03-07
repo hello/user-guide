@@ -4,7 +4,7 @@ menu:
     parent: sense
 prev: /sense/proximity
 next: /sense/colors
-title: gestures
+title: Gestures
 weight: 2
 ---
 

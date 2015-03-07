@@ -4,7 +4,7 @@ menu:
     parent: app
 prev: /app/enhanced-audio
 next: /app/devices
-title: alarms
+title: Alarms
 weight: 9
 ---
 
