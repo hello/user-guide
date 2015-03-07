@@ -4,7 +4,7 @@ menu:
     parent: smart-alarm
 prev: /smart-alarm/multiple-alarms
 next: /smart-alarm/alarms-two-people
-title: dismissing your alarm
+title: Dismissing your Alarm
 weight: 4
 ---
 

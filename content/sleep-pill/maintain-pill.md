@@ -4,7 +4,7 @@ menu:
     parent: sleep pill
 prev: /sleep-pill/battery-change
 next: /score/your-score
-title: maintaining sleep pill
+title: Maintaining your Sleep Pill
 weight: 6
 ---
 

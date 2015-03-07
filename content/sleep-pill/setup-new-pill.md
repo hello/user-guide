@@ -4,7 +4,7 @@ menu:
     parent: sleep pill
 prev: /sleep-pill/clip-pill
 next: /sleep-pill/pair-a-second-sleep-pill
-title: setup your sleep pill
+title: Setup your Sleep Pill
 weight: 3
 ---
 

@@ -4,7 +4,7 @@ menu:
     parent: sleep pill
 prev: /sense/colors
 next: /sleep-pill/clip-pill
-title: pill colors
+title: Pill Colors
 weight: 1
 ---
 

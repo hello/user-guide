@@ -4,7 +4,7 @@ menu:
     parent: smart-alarm
 prev: /smart-alarm/smart-alarm
 next: /smart-alarm/multiple-alarms
-title: setting your smart alarm
+title: Setting Your Smart Alarm
 weight: 2
 ---
 

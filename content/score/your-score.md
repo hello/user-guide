@@ -4,7 +4,7 @@ menu:
     parent: sleep score
 prev: /sleep-pill/maintain-pill
 next: /score/sharing
-title: your sleep score
+title: Your Sleep Score
 weight: 1
 ---
 
