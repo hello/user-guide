@@ -2,9 +2,10 @@
 menu:
   main:
     parent: sleep pill
+
 prev: /sleep-pill/setup-new-pill
 next: /sleep-pill/battery-change
-title: Pair a second Sleep Pill
+title: Pair another Sleep Pill
 weight: 4
 ---
 
