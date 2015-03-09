@@ -11,9 +11,14 @@ weight: 2
 ## Supported Devices
 
 
-To set-up Sense, you will first need a smart phone that is compatible.
+*The Sense app is currently only available for users in the United States.*
 
 **iOS:**
+
+To set up Sense with iOS, you will need a compatible device running iOS 7 or later.
+
+
+**Compatible devices:**
 
 - iPhone 4S or newer
 
@@ -23,6 +28,15 @@ To set-up Sense, you will first need a smart phone that is compatible.
 
 
 **Android:**
+
+To set up Sense with Android, you will need a device with Jelly Bean 4.3 or later, and support for Bluetooth 4.0 Low Energy.
+
+
+**Tested devices**
+
+
+If you don’t see your device listed below, but it meets the above requirements, you may still be able to set up Sense with your Android device. We just haven’t had a chance to test with your specific configuration yet.
+
 
 - Moto G first gen
 
