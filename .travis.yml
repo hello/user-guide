@@ -12,4 +12,8 @@ env:
 
 notifications:
   email:
-    - marina@sayhello.com
+    recipients:
+      - marina@sayhello.com
+
+    on_success: always
+    on_failure: always
