@@ -63,15 +63,15 @@ Cet appareil numérique de Classe B est conforme à la norme ICES-003 du Canada.
 
 Hello, Inc. is authorized to apply the CE Mark to its Sense and Sleep Pill products, thereby declaring conformity to the relevant provisions of the following directives:
 
-EMC Directive 2004/108/EC
+EMC Directive 2004 / 108 / EC
 
-Low Voltage Directive 2006/95/EC
+Low Voltage Directive 2006 / 95 / EC
 
-R&TTE Directive 1999/5/EC
+R&TTE Directive 1999 / 5 / EC
 
-Ecodesign requirements for Energy Related Products Directive 2009/125/EC
+Ecodesign requirements for Energy Related Products Directive 2009 / 125 / EC
 
-RoHS Recast Directive 2011/65/EU
+RoHS Recast Directive 2011 / 65 / EU
 
 
 The CE mark for the Sleep Pill is located inside the battery compartment on its bottom panel.
